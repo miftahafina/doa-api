@@ -1,0 +1,25 @@
+Metadata-Version: 2.0
+Name: Sastrawi
+Version: 1.0.1
+Summary: Library for stemming Indonesian (Bahasa) text
+Home-page: https://github.com/har07/sastrawi
+Author: Hanif Amal Robbani
+Author-email: dev.har07@gmail.com
+License: MIT
+Keywords: nlp stemming indonesia indonesian
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: Topic :: Text Processing :: Linguistic
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+
+Library for stemming Indonesian (Bahasa) text
+
+
