@@ -1,0 +1,19 @@
+{
+	"New doa": {
+		"prefix": "dsoa",
+		"body": [
+			"{",
+			"\t\"id_doa\"        : \"$1\",",
+			"\t\"nama\"          : \"$2\",",
+			"\t\"lafal\"         : \"$3\",",
+			"\t\"transliterasi\" : \"$4\",",
+			"\t\"arti\"          : \"$5\",",
+			"\t\"riwayat\"       : \"$6\",",
+			"\t\"keterangan\"    : None,",
+			"\t\"kata_kunci\"    : [$7]",
+			"},$8"
+		],
+		"description": "Add a new doa dictionary"
+	}
+}
+
