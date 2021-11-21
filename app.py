@@ -1,5 +1,5 @@
 import random
-from flask import Flask, json, jsonify
+from flask import Flask, jsonify
 from markupsafe import escape
 from doa_list import doa_list
 from generated_doa_list import generated_doa_list
@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    random = 0
+    random = randint(1,9999)
     dict1 = {
         random: 0
     }
