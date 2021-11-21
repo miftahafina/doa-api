@@ -1,7 +1,9 @@
+import random
 from flask import Flask, json, jsonify
 from markupsafe import escape
 from doa_list import doa_list
 from generated_doa_list import generated_doa_list
+from random import randint
 
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 
@@ -9,7 +11,14 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    return jsonify(doa_list)
+    random = 0
+    dict1 = {
+        random: 0
+    }
+
+    dict1[random] += 1
+
+    return jsonify(dict1)
 
 
 @app.route("/show/<id_doa>")
@@ -32,8 +41,14 @@ def search(query):
     query_list  = query_stem.split(' ')
     result_list = []
 
+    random_value = randint(0, 9999)
+
+    copied_generated_doa_list = {}
+    copied_generated_doa_list[random_value] = generated_doa_list.copy()
+    # return jsonify(copied_generated_doa_list)
+
     for item in query_list:
-        for doa in generated_doa_list:
+        for doa in copied_generated_doa_list[random_value]:
             if item != "doa" and item in doa['kata_kunci']:
                 doa['peringkat'] += 1
                 result_list.append(doa)
