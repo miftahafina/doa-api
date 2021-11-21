@@ -7,7 +7,8 @@ doa_list = [
         "arti"          : "Dengan Nama-Mu ya Allah, aku mati dan aku hidup.",
         "riwayat"       : "HR. Bukhari 6324.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "002",
@@ -17,7 +18,8 @@ doa_list = [
         "arti"          : "Segala puji bagi Allah, yang membangunkan kami setelah ditidurkanNya dan kepadaNya kami dibangitkan.",
         "riwayat"       : "HR. Al-Bukhari dalam Fathul Baari 11/113, Muslim 4/2083.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "003",
@@ -27,7 +29,8 @@ doa_list = [
         "arti"          : "Segala puji bagi Allah yang memberi pakaian ini kepadaku sebagai rezeki dariNya tanpa daya dan kekuatan dariku.",
         "riwayat"       : "HR. Seluruh penyusun kitab Sunan, kecuali An-Nasai, lihat kitab Irwa'ul Ghalil 7/47.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "004",
@@ -37,7 +40,8 @@ doa_list = [
         "arti"          : "Ya Allah, hanya milikMu segala puji, Engkaulah yang memberi pakaian ini kepadaku. Aku mohon kepadaMu untuk memperoleh kebaikannya dan kebaikan yang ia diciptakan karenanya. Aku berlindung kepadaMu dari kejahatannya dan kejahatan yang ia diciptakan karenanya.",
         "riwayat"       : "HR. Abu Dawud, At-Tirmidzi, Al-Baghawi dan lihat Mukhtashar Syamaailit Tirmidzi, oleh Al-Albani, halaman 47.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "005",
@@ -47,7 +51,8 @@ doa_list = [
         "arti"          : "Kenakanlah sampai lusuh, semoga Allah ta'ala memberikan gantinya kepadamu.",
         "riwayat"       : "HR. Abu Daud 4/41 dan lihat pula Shahih Abi Dawud, 2/760.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "006",
@@ -57,7 +62,8 @@ doa_list = [
         "arti"          : "Berpakaianlah yang baru, hiduplah dengan terpuji dan matilah dalam keadaan syahid.",
         "riwayat"       : "HR. Ibnu Majah 2/1178, Al-Baghawi 12/41 dan lihat Shahih Ibnu Majah 2/275.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "007",
@@ -67,7 +73,8 @@ doa_list = [
         "arti"          : "Dengan nama Allah (aku meletakkan baju).",
         "riwayat"       : "HR. At-Tirmidzi 2/505 dan Imam yang lain. Lihat Irwa'ul Ghalil, 49 dan Shahihul Jami' 3/203.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "008",
@@ -77,7 +84,8 @@ doa_list = [
         "arti"          : "Dengan nama Allah. Ya Allah, sesungguhnya aku berlindung kepadaMu dari godaan setan laki-laki dan perempuan.",
         "riwayat"       : "HR. Al-Bukhari 1/45 dan Muslim 1/283. Sedang tambahan bismillaah pada permulaan hadits, menurut riwayat Said bin Manshur. Lihat Fathul Baari 1/244.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "009",
@@ -87,7 +95,8 @@ doa_list = [
         "arti"          : "Aku minta ampun kepadaMu.",
         "riwayat"       : "HR. Seluruh penyusun kitab Sunan, kecuali An-Nasai yang meriwayatkan dalam 'Amalul Yaumi wal Lailah, lihat Takhrij Zaadul Ma'aad 2/387.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "010",
@@ -97,7 +106,8 @@ doa_list = [
         "arti"          : "Dengan nama Allah (aku berwudhu).",
         "riwayat"       : "HR. Abu Dawud, Ibnu Majah dan Ahmad. Lihat Irwa'ul Ghalil 1/122.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "011",
@@ -107,7 +117,8 @@ doa_list = [
         "arti"          : "Aku bersaksi, bahwa tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa dan tiada sekutu bagiNya. Aku bersaksi, bahwa Muhammad adalah hamba dan utusanNya.",
         "riwayat"       : "HR. Muslim 1/209.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "012",
@@ -117,7 +128,8 @@ doa_list = [
         "arti"          : "Ya Allah, jadikanlah aku termasuk orang-orang yang bertaubat dan jadikanlah aku termasuk orang-orang (yang senang) bersuci.",
         "riwayat"       : "HR. At-Tirmidzi 1/78, dan lihat Shahih At-Tirmidzi 1/18.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "013",
@@ -127,7 +139,8 @@ doa_list = [
         "arti"          : "Maha Suci Engkau ya Allah, aku memuji-Mu. Aku bersaksi bahwa tidak ada sesembahan yang berhak disembah kecuali Engkau, aku minta ampun dan bertaubat kepada-Mu.",
         "riwayat"       : "HR. An-Nasai dalam 'Amalul Yaumi wal Lailah, halaman 173 dan lihat Irwa'ul Ghalil, 1/135 dan 2/94.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "014",
@@ -137,7 +150,8 @@ doa_list = [
         "arti"          : "Dengan nama Allah, aku bertawakkal kepada Allah, tiada daya dan kekuatan kecuali dengan pertolongan Allah.",
         "riwayat"       : "HR. Abu Daud 5095, Turmudzi 3426 dan dishahihkan al-Albani.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "015",
@@ -147,7 +161,8 @@ doa_list = [
         "arti"          : "Ya Allah, aku berlindung kepada-Mu, jangan sampai aku sesat atau disesatkan (setan atau orang yang berwatak setan), berbuat kesalahan atau disalahi, menganiaya atau dianiaya (orang), dan berbuat bodoh atau dibodohi.",
         "riwayat"       : "HR. Abu Dawud 5094, Nasai 5486, Ibnu Majah 3884 dan dishahihkan al-Albani.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "016",
@@ -157,7 +172,8 @@ doa_list = [
         "arti"          : "Semoga keselamatan atas kami dan hamba-hamba Allah yang shalih.",
         "riwayat"       : "HR. Bukhari dalam Adabul Mufrod 806/1055. Sanad hadits ini hasan sebagaimana dikatakan oleh Al Hafizh Ibnu Hajar dalam Al Fath, 11: 17.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "017",
@@ -167,7 +183,8 @@ doa_list = [
         "arti"          : "Ya Allah, jadikanlahlah cahaya di hatiku, cahaya di lidahku, cahaya di pendengaranku, cahaya di penglihatanku, cahaya dari belakangku, cahaya dari hadapanku, cahaya dari atasku, cahaya dari bawahku. Ya Allah, berilah aku cahaya.",
         "riwayat"       : "HR. Muslim no. 763 (191) Syarah Muslim V/51 dan lafal hadits menurut riwayatnya. Diriwayatkan juga oleh Al-Bukhari/Fat-hul Baari XI/116, banyak tambahan di dalamnya.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "018",
@@ -177,7 +194,8 @@ doa_list = [
         "arti"          : "Aku berlindung kepada Allah Yang Maha Agung, dengan wajahNya Yang Mulia dan kekuasaanNya yang abadi, dari setan yang terkutuk [1] Dengan nama Allah dan semoga shalawat [2] dan salam tercurahkan kepada Rasulullah [3] Ya Allah, bukalah pintu-pintu rahmatMu untukku [4].",
         "riwayat"       : "HR. Muslim 1/494.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "019",
@@ -187,7 +205,8 @@ doa_list = [
         "arti"          : "Dengan nama Allah, semoga shalawat dan salam terlimpahkan kepada Rasulullah. Ya Allah, sesungguhnya aku minta kepadaMu dari karuniaMu. Ya Allah, peliharalah aku dari godaan setan yang terkutuk.",
         "riwayat"       : "Tambahan: Allaahumma'shimni minasy syai-thaanir rajim, adalah riwayat Ibnu Majah. Lihat Shahih Ibnu Majah 129.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "020",
@@ -202,7 +221,8 @@ doa_list = [
             "Laa haula wa laa quwwata illaa billaah.",
             "Tidak ada daya dan kekuatan kecuali dengan pertolongan Allah."
         ],
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "021",
@@ -214,7 +234,8 @@ doa_list = [
         "keterangan"    : [
             "Cara membacanya adalah “…muhammadanil wasiilata…” dan “…mahmuudanil-ladzii…”, yaitu ada tambahan nun wiqoyah (dibaca “ni”)."
         ],
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "022",
@@ -224,7 +245,8 @@ doa_list = [
         "arti"          : "Dengan nama Allah.",
         "riwayat"       : "HR. Bukhari no. 5376 dan Muslim no. 2022.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "023",
@@ -234,7 +256,8 @@ doa_list = [
         "arti"          : "Dengan nama Allah pada awal dan akhirnya.",
         "riwayat"       : "HR. Tirmidzi no. 1858, Abu Daud no. 3767 dan Ibnu Majah no. 3264. Al Hafizh Abu Thohir mengatakan bahwa sanad hadits ini shahih dan Syaikh Al Albani menyatakan hadits ini shahih.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "024",
@@ -244,7 +267,8 @@ doa_list = [
         "arti"          : "Ya Allah, berkahilah kami dengan makanan ini, dan berilah kami makan yang lebih baik darinya.",
         "riwayat"       : "HR. Tirmidzi no. 3455, Abu Daud no. 3730, Ibnu Majah no. 3322. At Tirmidzi dan Syaikh Al Albani mengatakan bahwa hadits ini hasan.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "025",
@@ -254,7 +278,8 @@ doa_list = [
         "arti"          : "Ya Allah, berkahilah kami padanya, dan tambahkanlah kepada kami darinya.",
         "riwayat"       : "HR. Tirmidzi no. 3455, Abu Daud no. 3730, Ibnu Majah no. 3322. At Tirmidzi dan Syaikh Al Albani mengatakan bahwa hadits ini hasan.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "026",
@@ -264,7 +289,8 @@ doa_list = [
         "arti"          : "Segala puji bagi Allah yang telah memberiku makanan ini, dan memberi rezeki kepadaku, tanpa daya dan kekuatan dariku.",
         "riwayat"       : "HR. Abu Daud no. 4043, Tirmidzi no. 3458, Ibnu Majah no. 3285 dan Ahmad 3: 439. Imam Tirmidzi, Ibnu Hajar dan ulama lainnya menghasankan hadits ini sebagaimana disetujui oleh Syaikh Salim bin ‘Ied Al Hilali dalam Bahjatun Nazhirin, 2: 50.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "027",
@@ -274,7 +300,8 @@ doa_list = [
         "arti"          : "Segala puji bagi Allah, (Aku memuji-Nya) dengan pujian yang banyak, yang baik dan penuh berkah, yang senantiasa dibutuhkan, diperlukan dan tidak bisa ditinggalkan, ya Tuhan kami.",
         "riwayat"       : "HR. Al-Bukhari 6/214, At-Tirmidzi dengan lafal yang sama 5/507.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "028",
@@ -284,7 +311,8 @@ doa_list = [
         "arti"          : "Segala puji bagi Allah.",
         "riwayat"       : "HR. Muslim no. 2734.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "029",
@@ -294,7 +322,8 @@ doa_list = [
         "arti"          : "Ya Allah, berilah makan kepada orang yang memberi aku makan, dan berilah minum kepada orang yang memberi aku minum.",
         "riwayat"       : "HR. Muslim 2055.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
     {
         "id_doa"        : "030",
@@ -304,6 +333,7 @@ doa_list = [
         "arti"          : "Ya Allah, berkahilah apa yang Engkau rezekikan kepada mereka, ampunilah mereka, dan rahmatilah mereka.",
         "riwayat"       : "HR. Muslim 2042.",
         "keterangan"    : None,
-        "kata_kunci"    : []
+        "kata_kunci"    : [],
+        "peringkat"     : 0
     },
 ]
