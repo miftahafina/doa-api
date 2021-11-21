@@ -9,13 +9,13 @@ app = Flask(__name__)
 def index():
     return jsonify(doa_list)
 
-@app.route("/show/<doa_id>")
-def show(doa_id):
-    doa_id = escape(doa_id)
+@app.route("/show/<id_doa>")
+def show(id_doa):
+    id_doa = escape(id_doa)
     result = []
 
     for doa in doa_list:
-        if doa['doa_id'] == doa_id:
+        if doa['id_doa'] == id_doa:
             result.append(doa)
 
     return jsonify(result)

@@ -1,6 +1,6 @@
 doa_list = [
     {
-        "doa_id"        : "001",
+        "id_doa"        : "001",
         "nama"          : "Doa Sebelum Tidur",
         "lafal"         : "بِاسْمِكَ اللَّهُمَّ أَمُوْتُ وَأَحْيَا",
         "transliterasi" : "Bismika-llaahumma amuutu wa ahyaa.",
@@ -10,7 +10,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "002",
+        "id_doa"        : "002",
         "nama"          : "Doa Bangun Tidur",
         "lafal"         : "اَلْحَمْدُ لِلَّهِ الَّذِيْ أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُوْرِ",
         "transliterasi" : "Alhamdulillaahil-ladzii ahyaanaa ba'da maa amaatanaa wa ilaihin-nusyuur.",
@@ -20,7 +20,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "003",
+        "id_doa"        : "003",
         "nama"          : "Doa Ketika Mengenakan Pakaian",
         "lafal"         : "اَلْحَمْدُ لِلَّهِ الَّذِيْ كَسَانِيْ هَـٰذَا (الثَّوْبَ) وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلاَ قُوَّةٍ",
         "transliterasi" : "Alhamdulillaahil-ladzii kasaanii haadzats-tsauba wa rozaqoniihi min ghoiri haulin minnii wa laa quwwah.",
@@ -30,7 +30,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "004",
+        "id_doa"        : "004",
         "nama"          : "Doa Ketika Mengenakan Pakaian Baru",
         "lafal"         : "اَللَّهُمَّ لَكَ الْحَمْدُ أَنْتَ كَسَوْتَنِيْهِ، أَسْأَلُكَ مِنْ خَيْرِهِ وَخَيْرِ مَا صُنِعَ لَهُ، وَأَعُوْذُ بِكَ مِنْ شَرِّهِ وَشَرِّ مَا صُنِعَ لَهُ",
         "transliterasi" : "Allaahumma lakal hamdu anta kasautaniihi, as-aluka min khoirihi wa khoiri maa shuni'a lahu, wa a'uudzu bika min syarrihi wa syarri maa shuni'a lah.",
@@ -40,7 +40,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "005",
+        "id_doa"        : "005",
         "nama"          : "Doa Kepada Orang yang Mengenakan Pakaian Baru 1",
         "lafal"         : "تُبْلِي وَيُخْلِفُ اللَّهُ تَعَالَى",
         "transliterasi" : "Tublii wa yukhlifullaahu ta'aalaa",
@@ -50,7 +50,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "006",
+        "id_doa"        : "006",
         "nama"          : "Doa Kepada Orang yang Mengenakan Pakaian Baru 2",
         "lafal"         : "اِلْبَسْ جَدِيْدًا، وَعِشْ حَمِيْدًا، وَمُتْ شَهِيْدًا",
         "transliterasi" : "Ilbas jadiidan, wa 'isy hamiidan, wa mut syahiidan.",
@@ -60,7 +60,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "007",
+        "id_doa"        : "007",
         "nama"          : "Doa Ketika Melepas atau Meletakkan Pakaian",
         "lafal"         : "بِسْمِ اللَّهِ",
         "transliterasi" : "Bismillaah.",
@@ -70,7 +70,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "008",
+        "id_doa"        : "008",
         "nama"          : "Doa Masuk WC atau Kamar Mandi",
         "lafal"         : "(بِسْمِ اللَّهِ) اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
         "transliterasi" : "(Bismillaah) Allaahumma innii a'uudzu bika minal khubutsi wal khobaa-its.",
@@ -80,7 +80,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "009",
+        "id_doa"        : "009",
         "nama"          : "Doa Keluar dari WC atau Kamar Mandi",
         "lafal"         : "غُفْرَانَكَ",
         "transliterasi" : "Ghufroonak.",
@@ -90,7 +90,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "010",
+        "id_doa"        : "010",
         "nama"          : "Doa Sebelum Wudhu",
         "lafal"         : "بِسْمِ اللَّهِ",
         "transliterasi" : "Bismillaah.",
@@ -100,7 +100,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "011",
+        "id_doa"        : "011",
         "nama"          : "Doa Setelah Wudhu 1",
         "lafal"         : "أَشْهَدُ أَنْ لاَ إِلَـٰهَ إِلاَّ اللَّهُ، وَحْدَهُ لاَ شَرِيْكَ لَهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ",
         "transliterasi" : "Asyhadu al-laa ilaaha illallaah, wahdahu laa syariika lah, wa asyhadu anna muhammadan 'abduhu wa rosuuluh.",
@@ -110,7 +110,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "012",
+        "id_doa"        : "012",
         "nama"          : "Doa Setelah Wudhu 2",
         "lafal"         : "اَللَّهُمَّ اجْعَلْنِيْ مِنَ التَّوَّابِيْنَ وَاجْعَلْنِيْ مِنَ الْمُتَطَهِّرِيْنَ",
         "transliterasi" : "Allaahummaj 'alnii minat-tawwaabiina waj 'alnii minal mutathohhiriin.",
@@ -120,7 +120,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "013",
+        "id_doa"        : "013",
         "nama"          : "Doa Setelah Wudhu 3",
         "lafal"         : "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ، أَشْهَدُ أَنْ لاَ إِلَـٰهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ، وَأَتُوْبُ إِلَيْكَ",
         "transliterasi" : "Subhaanakallaahumma wa bihamdika, asyhadu al-laa ilaaha illaa anta, astaghfiruka, wa atuubu ilaik.",
@@ -130,7 +130,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "014",
+        "id_doa"        : "014",
         "nama"          : "Doa Ketika Keluar Rumah 1",
         "lafal"         : "بِسْمِ اللَّهِ، تَوَكَّلْتُ عَلَى اللَّهِ، لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ",
         "transliterasi" : "Bismillaah, tawakkaltu 'alallaah, laa haula wa laa quwwata illaa billaah.",
@@ -140,7 +140,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "015",
+        "id_doa"        : "015",
         "nama"          : "Doa Ketika Keluar Rumah 2",
         "lafal"         : "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ أَنْ أَضِلَّ أَوْ أُضَلَّ، أَوْ أَزِلَّ أَوْ أُزَلَّ، أَوْ أَظْلِمَ أَوْ أُظْلَمَ، أَوْ أَجْهَلَ أَوْ يُجْهَلَ عَلَيَّ",
         "transliterasi" : "Allaahumma innii a'uudzu bika an adhilla au udholla, au azilla au uzalla, au azhlima au uzhlama, au ajhala au yujhala 'alayya.",
@@ -150,7 +150,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "016",
+        "id_doa"        : "016",
         "nama"          : "Doa Masuk Rumah Ketika Kosong atau Sepi",
         "lafal"         : "اَلسَّلَامُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِيْنَ",
         "transliterasi" : "As-salaamu 'alainaa wa 'alaa 'ibaadillaahish-shoolihiin.",
@@ -160,7 +160,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "017",
+        "id_doa"        : "017",
         "nama"          : "Doa Ketika Pergi Ke Masjid",
         "lafal"         : "اَللَّهُمَّ اجْعَلْ فِيْ قَلْبِيْ نُوْرًا، وَفِيْ لِسَانِيْ نُوْرًا، وَاجْعَلْ فِيْ سَمْعِيْ نُوْرًا، وَاجْعَلْ فِيْ بَصَرِيْ نُوْرًا، وَاجْعَلْ مِنْ خَلْفِيْ نُوْرًا، وَمِنْ أَمَامِيْ نُوْرًا، وَاجْعَلْ مِنْ فَوْقِيْ نُوْرًا، وَمِنْ تَحْتِيْ نُوْرًا، اَللَّهُمَّ أَعْطِنِيْ نُوْرًا",
         "transliterasi" : "Allaahummaj'al fii qolbii nuuron, wa fii lisaanii nuuron, waj'al fii sam'ii nuuron, waj'al fii bashorii nuuron, waj'al min kholfii nuuron, wa min amaamii nuuron, waj'al min fauqii nuuron, wa min tahtii nuuron, allaahumma a'thinii nuuron.",
@@ -170,7 +170,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "018",
+        "id_doa"        : "018",
         "nama"          : "Doa Masuk Masjid",
         "lafal"         : "أَعُوْذُ بِاللَّهِ الْعَظِيْمِ، وَبِوَجْهِهِ الْكَرِيْمِ، وَسُلْطَانِهِ الْقَدِيْمِ، مِنَ الشَّيْطَانِ الرَّجِيْمِ، (بِسْمِ اللَّهِ، وَالصَّلاَةُ) (وَالسَّلاَمُ عَلَى رَسُوْلِ اللَّهِ) اَللَّهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ",
         "transliterasi" : "A'uudzu billaahil 'azhiim, wa biwajhihil kariim, wa sulthoonihil qodiim, minasy-syaithoonir-rojiim, (bismillaah, wash-sholaaatu) (was-salaamu 'alaa rosuulillaah) allaahummaftah lii abwaaba rohmatik.",
@@ -180,7 +180,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "019",
+        "id_doa"        : "019",
         "nama"          : "Doa Keluar Masjid",
         "lafal"         : "بِسْمِ اللَّهِ وَالصَّلاَةُ وَالسَّلاَمُ عَلَى رَسُوْلِ اللَّهِ، اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ، اَللَّهُمَّ اعْصِمْنِيْ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
         "transliterasi" : "Bismillaahi wash-sholaatu was-salaamu 'alaa rosuulillaah, allaahumma innii as-aluka min fadhlika, allaahumma'shimnii minasy-syaithoonir-rojiim.",
@@ -190,7 +190,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "020",
+        "id_doa"        : "020",
         "nama"          : "Doa Ketika Mendengarkan Adzan",
         "lafal"         : "",
         "transliterasi" : "",
@@ -205,7 +205,7 @@ doa_list = [
         "kata_kunci"    : []
     },
     {
-        "doa_id"        : "021",
+        "id_doa"        : "021",
         "nama"          : "Doa Setelah Adzan",
         "lafal"         : "اَللَّهُمَّ رَبَّ هَـٰذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلاَةِ الْقَائِمَةِ، آتِ مُحَمَّدًا الْوَسِيْلَةَ وَالْفَضِيْلَةَ، وَابْعَثْهُ مَقَامًا مَحْمُوْدًا الَّذِيْ وَعَدْتَهُ",
         "transliterasi" : "Allaahumma robba haadzihid-da'watit-taammah, wash-sholaatil qoo-imah, aati muhammadanil wasiilata wal fadhiilah, wab'ats-hu maqooman mahmuudanil-ladzii wa 'adtah.",
@@ -214,6 +214,96 @@ doa_list = [
         "keterangan"    : [
             "Cara membacanya adalah “…muhammadanil wasiilata…” dan “…mahmuudanil-ladzii…”, yaitu ada tambahan nun wiqoyah (dibaca “ni”)."
         ],
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "022",
+        "nama"          : "Doa Sebelum Makan",
+        "lafal"         : "بِسْمِ اللَّهِ",
+        "transliterasi" : "Bismillaah.",
+        "arti"          : "Dengan nama Allah.",
+        "riwayat"       : "HR. Bukhari no. 5376 dan Muslim no. 2022.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "023",
+        "nama"          : "Ketika Lupa Membaca Doa Sebelum Makan",
+        "lafal"         : "بِسْمِ اللَّهِ فِيْ أَوَّلِهِ وَآخِرِهِ",
+        "transliterasi" : "Bismillaahi fii awwalihi wa aakhirihi.",
+        "arti"          : "Dengan nama Allah pada awal dan akhirnya.",
+        "riwayat"       : "HR. Tirmidzi no. 1858, Abu Daud no. 3767 dan Ibnu Majah no. 3264. Al Hafizh Abu Thohir mengatakan bahwa sanad hadits ini shahih dan Syaikh Al Albani menyatakan hadits ini shahih.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "024",
+        "nama"          : "Doa Ketika Diberi Rizki Berupa Makanan",
+        "lafal"         : "اَللَّهُمَّ بَارِكْ لَنَا فِيْهِ، وَأَطْعِمْنَا خَيْرًا مِنْهُ",
+        "transliterasi" : "Allaahumma baarik lanaa fiihi, wa ath'imnaa khoiron minhu.",
+        "arti"          : "Ya Allah, berkahilah kami dengan makanan ini, dan berilah kami makan yang lebih baik darinya.",
+        "riwayat"       : "HR. Tirmidzi no. 3455, Abu Daud no. 3730, Ibnu Majah no. 3322. At Tirmidzi dan Syaikh Al Albani mengatakan bahwa hadits ini hasan.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "025",
+        "nama"          : "Doa Ketika Minum Susu",
+        "lafal"         : "اَللَّهُمَّ بَارِكْ لَنَا فِيْهِ، وَزِدْنَا مِنْهُ",
+        "transliterasi" : "Allaahumma baarik lanaa fiihi, wa zidnaa minhu.",
+        "arti"          : "Ya Allah, berkahilah kami padanya, dan tambahkanlah kepada kami darinya.",
+        "riwayat"       : "HR. Tirmidzi no. 3455, Abu Daud no. 3730, Ibnu Majah no. 3322. At Tirmidzi dan Syaikh Al Albani mengatakan bahwa hadits ini hasan.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "026",
+        "nama"          : "Doa Setelah Makan 1",
+        "lafal"         : "اَلْحَمْدُ لِلَّهِ الَّذِيْ أَطْعَمَنِيْ هَـٰذَا وَرَزَقَنِيْهِ، مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلاَ قُوَّةٍ",
+        "transliterasi" : "Alhamdulillaahil-ladzii ath'amanii haadzaa wa rozaqoniihi, min ghoiri haulin minnii wa laa quwwah.",
+        "arti"          : "Segala puji bagi Allah yang telah memberiku makanan ini, dan memberi rezeki kepadaku, tanpa daya dan kekuatan dariku.",
+        "riwayat"       : "HR. Abu Daud no. 4043, Tirmidzi no. 3458, Ibnu Majah no. 3285 dan Ahmad 3: 439. Imam Tirmidzi, Ibnu Hajar dan ulama lainnya menghasankan hadits ini sebagaimana disetujui oleh Syaikh Salim bin ‘Ied Al Hilali dalam Bahjatun Nazhirin, 2: 50.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "027",
+        "nama"          : "Doa Setelah Makan 2",
+        "lafal"         : "اَلْحَمْدُ لِلَّهِ حَمْدًا كَثِيْرًا طَيِّبًا مُبَارَكًا فِيْهِ، غَيْرَ (مَكْفِيٍّ وَلاَ) مُوَدَّعٍ، وَلاَ مُسْتَغْنًى عَنْهُ رَبَّنَا",
+        "transliterasi" : "Alhamdulillaahi hamdan katsiiron thoyyiban mubaarokan fiih, ghoiro (makfiyyin wa laa) muwadda', wa laa mustaghnan 'anhu robbanaa.",
+        "arti"          : "Segala puji bagi Allah, (Aku memuji-Nya) dengan pujian yang banyak, yang baik dan penuh berkah, yang senantiasa dibutuhkan, diperlukan dan tidak bisa ditinggalkan, ya Tuhan kami.",
+        "riwayat"       : "HR. Al-Bukhari 6/214, At-Tirmidzi dengan lafal yang sama 5/507.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "028",
+        "nama"          : "Doa Setelah Makan 3",
+        "lafal"         : "اَلْحَمْدُ لِلَّهِ",
+        "transliterasi" : "Alhamdulillaah.",
+        "arti"          : "Segala puji bagi Allah.",
+        "riwayat"       : "HR. Muslim no. 2734.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "029",
+        "nama"          : "Doa Ketika Diberi Makan oleh Orang Lain 1",
+        "lafal"         : "اَللَّهُمَّ أَطْعِمْ مَنْ أَطْعَمَنِيْ، وَاسْقِ مَنْ سَقَانِيْ",
+        "transliterasi" : "Allaahumma ath'im man ath'amanii, wasqi man saqoonii.",
+        "arti"          : "Ya Allah, berilah makan kepada orang yang memberi aku makan, dan berilah minum kepada orang yang memberi aku minum.",
+        "riwayat"       : "HR. Muslim 2055.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "030",
+        "nama"          : "Doa Ketika Diberi Makan oleh Orang Lain 2",
+        "lafal"         : "اَللَّهُمَّ بَارِكْ لَهُمْ فِيْمَا رَزَقْتَهُمْ، وَاغْفِرْ لَهُمْ، وَارْحَمْهُمْ",
+        "transliterasi" : "Allaahumma baarik lahum fiimaa rozaqtahum, waghfir lahum, warhamhum.",
+        "arti"          : "Ya Allah, berkahilah apa yang Engkau rezekikan kepada mereka, ampunilah mereka, dan rahmatilah mereka.",
+        "riwayat"       : "HR. Muslim 2042.",
+        "keterangan"    : None,
         "kata_kunci"    : []
     },
 ]
