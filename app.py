@@ -1,9 +1,7 @@
-import random
 from flask import Flask, jsonify
 from markupsafe import escape
 from doa_list import doa_list
 from generated_doa_list import generated_doa_list
-from random import randint
 
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 
@@ -11,14 +9,10 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    random = randint(1,9999)
-    dict1 = {
-        random: 0
-    }
+    number = 1
+    number += 1
 
-    dict1[random] += 1
-
-    return jsonify(dict1)
+    return jsonify(number)
 
 
 @app.route("/show/<id_doa>")
@@ -33,28 +27,33 @@ def show(id_doa):
     return jsonify(result)
 
 
-@app.route("/search/<query>")
-def search(query):
-    query       = escape(query)
-    stemmer     = StemmerFactory().create_stemmer()
-    query_stem  = stemmer.stem(query)
-    query_list  = query_stem.split(' ')
-    result_list = []
+@app.route("/search/<search_query>")
+def search(search_query):
+    search_query = escape(search_query)
+    stemmer      = StemmerFactory().create_stemmer()
+    query_list   = stemmer.stem(search_query).split(" ")
+    result_list  = []
 
-    random_value = randint(0, 9999)
+    for query in query_list:
+        for doa in generated_doa_list:
+            if query != "doa" and query in doa["kata_kunci"]:
 
-    copied_generated_doa_list = {}
-    copied_generated_doa_list[random_value] = generated_doa_list.copy()
-    # return jsonify(copied_generated_doa_list)
+                if not any(result["id_doa"] == doa["id_doa"] for result in result_list):
+                    # does not exists
+                    result_list.append({
+                        "id_doa"   : doa["id_doa"],
+                        "kecocokan": 1,
+                        "nama" : doa["nama"]
+                        # "doa_data" : doa
+                    })
+                else:
+                    # exists
+                    for result in result_list:
+                        if result["id_doa"] == doa["id_doa"]:
+                            result["kecocokan"] += 1
 
-    for item in query_list:
-        for doa in copied_generated_doa_list[random_value]:
-            if item != "doa" and item in doa['kata_kunci']:
-                doa['peringkat'] += 1
-                result_list.append(doa)
-
-    # Setelah ini dimasukkan ke peringkat, sorting dan tampilkan yang teratas
-    # peringkat terus bertambah jika refresh/reload halaman
+    # sort desc by kecocokan
+    # sorted_result_list = sorted(result_list, key=result_list.__getitem__)
 
     return jsonify(result_list)
 
