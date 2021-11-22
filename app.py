@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from flask import Flask, json, jsonify
 from markupsafe import escape
 from doa_list import doa_list
 from generated_doa_list import generated_doa_list
@@ -10,20 +10,23 @@ app = Flask(__name__)
 
 @app.route("/")
 def index():
-    number = 1
-    number += 1
+    result = {
+        "data": generated_doa_list
+    }
 
-    return jsonify(number)
+    return jsonify(result)
 
 
 @app.route("/show/<id_doa>")
 def show(id_doa):
     id_doa = escape(id_doa)
-    result = []
+    result = {
+        "data": []
+    }
 
-    for doa in doa_list:
+    for doa in generated_doa_list:
         if doa["id_doa"] == id_doa:
-            result.append(doa)
+            result["data"].append(doa)
 
     return jsonify(result)
 
@@ -38,13 +41,13 @@ def search(search_query):
     for query in query_list:
         for doa in generated_doa_list:
             if query != "doa" and query in doa["kata_kunci"]:
-
                 if not any(result["id_doa"] == doa["id_doa"] for result in result_list):
                     # does not exists
                     result_list.append({
                         "id_doa"   : doa["id_doa"],
                         "kecocokan": 1,
-                        # "nama" : doa["nama"]
+                        # "nama" : doa["nama"],
+                        # "kata_kunci" : ' '.join(doa["kata_kunci"])
                         "doa_data" : doa
                     })
                 else:
@@ -53,18 +56,28 @@ def search(search_query):
                         if result["id_doa"] == doa["id_doa"]:
                             result["kecocokan"] += 1
 
-    # sort desc by kecocokan
-    result_list.sort(key=operator.itemgetter('kecocokan'), reverse=True)
+    # check if not empty
+    if result_list:
+        # sort desc by kecocokan
+        result_list.sort(key=operator.itemgetter('kecocokan'), reverse=True)
 
-    return jsonify(result_list)
+        # check kecocokan tertinggi ganda
+        highest_kecocokan      = result_list[0]['kecocokan']
+        # jumlah_kecocokan_ganda = 0
+        final_result = {
+            "data": []
+        }
+        
+        for result in result_list:
+            if highest_kecocokan == result['kecocokan']:
+                # jumlah_kecocokan_ganda += 1
+                result['doa_data']['kecocokan'] = result['kecocokan']
+                final_result["data"].append(result['doa_data'])
 
+        return jsonify(final_result)
 
-@app.route("/stem/<query>")
-def stem(query):
-    query   = escape(query)
-    stemmer = StemmerFactory().create_stemmer()
-
-    return stemmer.stem(query)
+    else:
+        return jsonify({'status': 'Tidak ditemukan'})
 
 
 @app.route("/generate-kata-kunci")
