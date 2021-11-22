@@ -8,7 +8,6 @@ doa_list = [
         "riwayat"       : "HR. Bukhari 6324.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "002",
@@ -19,7 +18,6 @@ doa_list = [
         "riwayat"       : "HR. Al-Bukhari dalam Fathul Baari 11/113, Muslim 4/2083.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "003",
@@ -30,7 +28,6 @@ doa_list = [
         "riwayat"       : "HR. Seluruh penyusun kitab Sunan, kecuali An-Nasai, lihat kitab Irwa'ul Ghalil 7/47.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "004",
@@ -41,7 +38,6 @@ doa_list = [
         "riwayat"       : "HR. Abu Dawud, At-Tirmidzi, Al-Baghawi dan lihat Mukhtashar Syamaailit Tirmidzi, oleh Al-Albani, halaman 47.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "005",
@@ -52,7 +48,6 @@ doa_list = [
         "riwayat"       : "HR. Abu Daud 4/41 dan lihat pula Shahih Abi Dawud, 2/760.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "006",
@@ -63,7 +58,6 @@ doa_list = [
         "riwayat"       : "HR. Ibnu Majah 2/1178, Al-Baghawi 12/41 dan lihat Shahih Ibnu Majah 2/275.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "007",
@@ -74,7 +68,6 @@ doa_list = [
         "riwayat"       : "HR. At-Tirmidzi 2/505 dan Imam yang lain. Lihat Irwa'ul Ghalil, 49 dan Shahihul Jami' 3/203.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "008",
@@ -85,7 +78,6 @@ doa_list = [
         "riwayat"       : "HR. Al-Bukhari 1/45 dan Muslim 1/283. Sedang tambahan bismillaah pada permulaan hadits, menurut riwayat Said bin Manshur. Lihat Fathul Baari 1/244.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "009",
@@ -96,7 +88,6 @@ doa_list = [
         "riwayat"       : "HR. Seluruh penyusun kitab Sunan, kecuali An-Nasai yang meriwayatkan dalam 'Amalul Yaumi wal Lailah, lihat Takhrij Zaadul Ma'aad 2/387.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "010",
@@ -107,7 +98,6 @@ doa_list = [
         "riwayat"       : "HR. Abu Dawud, Ibnu Majah dan Ahmad. Lihat Irwa'ul Ghalil 1/122.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "011",
@@ -118,7 +108,6 @@ doa_list = [
         "riwayat"       : "HR. Muslim 1/209.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "012",
@@ -129,7 +118,6 @@ doa_list = [
         "riwayat"       : "HR. At-Tirmidzi 1/78, dan lihat Shahih At-Tirmidzi 1/18.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "013",
@@ -140,7 +128,6 @@ doa_list = [
         "riwayat"       : "HR. An-Nasai dalam 'Amalul Yaumi wal Lailah, halaman 173 dan lihat Irwa'ul Ghalil, 1/135 dan 2/94.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "014",
@@ -151,7 +138,6 @@ doa_list = [
         "riwayat"       : "HR. Abu Daud 5095, Turmudzi 3426 dan dishahihkan al-Albani.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "015",
@@ -162,7 +148,6 @@ doa_list = [
         "riwayat"       : "HR. Abu Dawud 5094, Nasai 5486, Ibnu Majah 3884 dan dishahihkan al-Albani.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "016",
@@ -173,7 +158,6 @@ doa_list = [
         "riwayat"       : "HR. Bukhari dalam Adabul Mufrod 806/1055. Sanad hadits ini hasan sebagaimana dikatakan oleh Al Hafizh Ibnu Hajar dalam Al Fath, 11: 17.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "017",
@@ -184,7 +168,6 @@ doa_list = [
         "riwayat"       : "HR. Muslim no. 763 (191) Syarah Muslim V/51 dan lafal hadits menurut riwayatnya. Diriwayatkan juga oleh Al-Bukhari/Fat-hul Baari XI/116, banyak tambahan di dalamnya.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "018",
@@ -195,7 +178,6 @@ doa_list = [
         "riwayat"       : "HR. Muslim 1/494.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "019",
@@ -206,7 +188,6 @@ doa_list = [
         "riwayat"       : "Tambahan: Allaahumma'shimni minasy syai-thaanir rajim, adalah riwayat Ibnu Majah. Lihat Shahih Ibnu Majah 129.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "020",
@@ -222,7 +203,6 @@ doa_list = [
             "Tidak ada daya dan kekuatan kecuali dengan pertolongan Allah."
         ],
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "021",
@@ -235,7 +215,6 @@ doa_list = [
             "Cara membacanya adalah “…muhammadanil wasiilata…” dan “…mahmuudanil-ladzii…”, yaitu ada tambahan nun wiqoyah (dibaca “ni”)."
         ],
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "022",
@@ -246,7 +225,6 @@ doa_list = [
         "riwayat"       : "HR. Bukhari no. 5376 dan Muslim no. 2022.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "023",
@@ -257,7 +235,6 @@ doa_list = [
         "riwayat"       : "HR. Tirmidzi no. 1858, Abu Daud no. 3767 dan Ibnu Majah no. 3264. Al Hafizh Abu Thohir mengatakan bahwa sanad hadits ini shahih dan Syaikh Al Albani menyatakan hadits ini shahih.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "024",
@@ -268,7 +245,6 @@ doa_list = [
         "riwayat"       : "HR. Tirmidzi no. 3455, Abu Daud no. 3730, Ibnu Majah no. 3322. At Tirmidzi dan Syaikh Al Albani mengatakan bahwa hadits ini hasan.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "025",
@@ -279,7 +255,6 @@ doa_list = [
         "riwayat"       : "HR. Tirmidzi no. 3455, Abu Daud no. 3730, Ibnu Majah no. 3322. At Tirmidzi dan Syaikh Al Albani mengatakan bahwa hadits ini hasan.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "026",
@@ -290,7 +265,6 @@ doa_list = [
         "riwayat"       : "HR. Abu Daud no. 4043, Tirmidzi no. 3458, Ibnu Majah no. 3285 dan Ahmad 3: 439. Imam Tirmidzi, Ibnu Hajar dan ulama lainnya menghasankan hadits ini sebagaimana disetujui oleh Syaikh Salim bin ‘Ied Al Hilali dalam Bahjatun Nazhirin, 2: 50.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "027",
@@ -301,7 +275,6 @@ doa_list = [
         "riwayat"       : "HR. Al-Bukhari 6/214, At-Tirmidzi dengan lafal yang sama 5/507.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "028",
@@ -312,7 +285,6 @@ doa_list = [
         "riwayat"       : "HR. Muslim no. 2734.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "029",
@@ -323,7 +295,6 @@ doa_list = [
         "riwayat"       : "HR. Muslim 2055.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
     {
         "id_doa"        : "030",
@@ -334,6 +305,5 @@ doa_list = [
         "riwayat"       : "HR. Muslim 2042.",
         "keterangan"    : None,
         "kata_kunci"    : [],
-        # "peringkat"     : 0
     },
 ]
