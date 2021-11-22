@@ -1,4 +1,4 @@
-from flask import Flask, json, jsonify
+from flask import Flask, jsonify
 from markupsafe import escape
 from doa_list import doa_list
 from generated_doa_list import generated_doa_list
