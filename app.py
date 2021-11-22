@@ -47,7 +47,7 @@ def search(search_query):
                         "id_doa"   : doa["id_doa"],
                         "kecocokan": 1,
                         # "nama" : doa["nama"],
-                        # "kata_kunci" : ' '.join(doa["kata_kunci"])
+                        # "kata_kunci" : ' '.join(doa["kata_kunci"]),
                         "doa_data" : doa
                     })
                 else:
@@ -58,26 +58,22 @@ def search(search_query):
 
     # check if not empty
     if result_list:
-        # sort desc by kecocokan
         result_list.sort(key=operator.itemgetter('kecocokan'), reverse=True)
 
-        # check kecocokan tertinggi ganda
-        highest_kecocokan      = result_list[0]['kecocokan']
-        # jumlah_kecocokan_ganda = 0
+        highest_kecocokan = result_list[0]['kecocokan']
         final_result = {
             "data": []
         }
         
         for result in result_list:
             if highest_kecocokan == result['kecocokan']:
-                # jumlah_kecocokan_ganda += 1
                 result['doa_data']['kecocokan'] = result['kecocokan']
                 final_result["data"].append(result['doa_data'])
 
         return jsonify(final_result)
 
     else:
-        return jsonify({'status': 'Tidak ditemukan'})
+        return jsonify({'status': 'Doa tidak ditemukan'})
 
 
 @app.route("/generate-kata-kunci")
