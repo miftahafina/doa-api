@@ -2,6 +2,7 @@ from flask import Flask, jsonify
 from markupsafe import escape
 from doa_list import doa_list
 from generated_doa_list import generated_doa_list
+import operator
 
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 
@@ -43,8 +44,8 @@ def search(search_query):
                     result_list.append({
                         "id_doa"   : doa["id_doa"],
                         "kecocokan": 1,
-                        "nama" : doa["nama"]
-                        # "doa_data" : doa
+                        # "nama" : doa["nama"]
+                        "doa_data" : doa
                     })
                 else:
                     # exists
@@ -53,7 +54,7 @@ def search(search_query):
                             result["kecocokan"] += 1
 
     # sort desc by kecocokan
-    # sorted_result_list = sorted(result_list, key=result_list.__getitem__)
+    result_list.sort(key=operator.itemgetter('kecocokan'), reverse=True)
 
     return jsonify(result_list)
 
