@@ -19,9 +19,9 @@ Kumpulan doa-doa sesuai al-qur'an dan as-sunnah
 ## Endpoints
 |Method|URI|Description|
 |-|-|-|
-|GET|/all|Show all doa|
-|GET|/search/{keywords}|Search doa by keywords|
-|GET|/show/{id_doa}|Show doa by ```id_doa```|
+|GET|[/all](https://tanyadoa-api.herokuapp.com/all)|Show all doa|
+|GET|[/search/{keywords}](https://tanyadoa-api.herokuapp.com/search/doa+sebelum+makan)|Search doa by keywords|
+|GET|[/show/{id_doa}](https://tanyadoa-api.herokuapp.com/show/1)|Show doa by ```id_doa```|
 
 
 ## Link
