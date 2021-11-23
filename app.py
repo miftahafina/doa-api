@@ -1,11 +1,8 @@
 from flask import Flask, jsonify
 from markupsafe import escape
-from doa_list import doa_list
 from generated_doa_list import generated_doa_list
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import operator
-from os import unlink
-from shutil import copyfile
 
 app = Flask(__name__)
 app.config['JSON_SORT_KEYS'] = False
@@ -96,6 +93,9 @@ def search(search_query):
     if result_list:
         result_list.sort(key=operator.itemgetter("kecocokan"), reverse=True)
 
+        return jsonify(result_list) # comment this line
+
+
         highest_kecocokan = result_list[0]["kecocokan"]
 
         for result in result_list:
@@ -111,30 +111,3 @@ def search(search_query):
         final_result["message"] = "Not Found"
 
     return jsonify(final_result)
-
-
-@app.route("/generate-kata-kunci")
-def generate_kata_kunci():
-    kata_kunci_list = []
-    stemmer         = StemmerFactory().create_stemmer()
-    temp_file_name  = "generated_doa_list_temp.py"
-    final_file_name = "generated_doa_list.py"
-    result = {
-        "code"   : 200,
-        "message": "Success",
-        "data"   : []
-    }
-
-    for doa in doa_list:
-        nama_doa_stem     = stemmer.stem(doa["nama"])
-        kata_kunci_list   = nama_doa_stem.split(" ")
-        doa["kata_kunci"] = kata_kunci_list
-
-        file = open(temp_file_name, "w")
-        file.write(f"generated_doa_list = {str(doa_list)}")
-        file.close
-
-        copyfile(temp_file_name, final_file_name)
-        unlink(temp_file_name)
-
-    return jsonify(result)
