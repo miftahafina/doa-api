@@ -848,12 +848,42 @@ doa_list = [
     },
     {
         "id_doa"        : "",
-        "nama"          : "Doa Menghilangkan Gangguan Setan Ketika Shalat Atau Membaca Al-Qur'an",
+        "nama"          : "Doa Menghilangkan Gangguan Setan Ketika Shalat atau Membaca Al-Qur'an",
         "lafal"         : "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
         "transliterasi" : "A'uudzu billaahi minasy-syaithoonir-rojiim.",
         "arti"          : "Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.",
         "riwayat"       : "HR. Muslim 4/1729.",
         "keterangan"    : "Dibaca kemudian meludahlah ke arah kiri 3x",
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Surga Dan Berlindung Dari Neraka",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ الْجَنَّةَ، وَأَعُوْذُ بِكَ مِنَ النَّارِ",
+        "transliterasi" : "Allaahumma innii as-alukal jannah, wa a'uudzu bika minan-naar.",
+        "arti"          : "Ya Allah, aku mohon kepada-Mu surga, dan aku berlindung kepada-Mu dari neraka.",
+        "riwayat"       : "HR. Abu Daud no. 792, Ibnu Majah no. 910, dan Ahmad (3/474). Syaikh Al Albani mengatakan bahwa hadits ini shahih.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Surga, Berlindung Dari Neraka, dan Mohon Takdir Baik",
+        "lafal"         : "اَللَّهُمَّ إِنِّى أَسْأَلُكَ الْجَنَّةَ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَعُوذُ بِكَ مِنَ النَّارِ وَمَا قَرَّبَ إِلَيْهَا مِنْ قَوْلٍ أَوْ عَمَلٍ، وَأَسْأَلُكَ أَنْ تَجْعَلَ كُلَّ قَضَاءٍ قَضَيْتَهُ لِى خَيْرًا",
+        "transliterasi" : "Allaahumma innii as-alukal jannata wa maa qorroba ilaihaa min qoulin au 'amal, wa a'uudzu bika minan-naari wa maa qorroba ilaihaa min qoulin au 'amal, wa as-aluka an taj'ala kulla qodhoo-in qodhoitahu lii khoiron.",
+        "arti"          : "Ya Allah, aku memohon kepada-Mu surga dan segala hal yang mendekatkan kepadanya, dari perkataan maupun perbuatan. Dan aku berlindung kepada-Mu dari neraka dan dari segala hal yang mendekatkan kepadanya, dari perkataan maupun perbuatan. Dan aku mohon kepada-Mu agar Engkau jadikan setiap yang Engkau takdirkan bagiku adalah baik.",
+        "riwayat"       : "HR. Ibnu Majah no. 3846 dan Ahmad 1/172. Syaikh Al Albani mengatakan bahwa hadits ini shohih.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Neraka",
+        "lafal"         : "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ غَرَامًا إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا",
+        "transliterasi" : "Robbanash-rif 'annaa 'adzaaba jahannam, inna 'adzaabahaa kaana ghorooman, innahaa saa-at mustaqorron wa muqoomaa.",
+        "arti"          : "Ya Tuhan kami, jauhkan azab jahannam dari kami, sesungguhnya azabnya itu adalah kebinasaan yang kekal. Sesungguhnya jahannam itu seburuk-buruk tempat menetap dan tempat kediaman.",
+        "riwayat"       : "Al Furqan [25]: 65-66",
+        "keterangan"    : None,
         "kata_kunci"    : []
     },
 ]
