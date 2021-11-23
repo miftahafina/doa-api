@@ -826,4 +826,34 @@ doa_list = [
         "keterangan"    : None,
         "kata_kunci"    : []
     },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung/Menghilangkan Gangguan Setan 1",
+        "lafal"         : "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "transliterasi" : "A'uudzu billaahi minasy-syaithoonir-rojiim.",
+        "arti"          : "Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.",
+        "riwayat"       : "HR. Abu Dawud 1/206, At-Tirmidzi, lihat Shahih At-Tirmidzi 1/77, dan lihat surah Al-Mukminun 98-99.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung/Menghilangkan Gangguan Setan 2",
+        "lafal"         : "رَبِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ رَبِّ أَنْ يَحْضُرُونِ",
+        "transliterasi" : "Robbi a'uudzu bika min hamazaatisy-syayaathiin, wa a'uudzu bika robbi an yah-dhuruun.",
+        "arti"          : "Ya Tuhanku, aku berlindung kepada Engkau dari bisikan-bisikan syaitan. Dan aku berlindung (pula) kepada Engkau ya Tuhanku, dari kedatangan mereka kepadaku.",
+        "riwayat"       : "Al-Mu'minun [23]: 97-98.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Menghilangkan Gangguan Setan Ketika Shalat Atau Membaca Al-Qur'an",
+        "lafal"         : "أَعُوْذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيْمِ",
+        "transliterasi" : "A'uudzu billaahi minasy-syaithoonir-rojiim.",
+        "arti"          : "Aku berlindung kepada Allah dari godaan syaitan yang terkutuk.",
+        "riwayat"       : "HR. Muslim 4/1729.",
+        "keterangan"    : "Dibaca kemudian meludahlah ke arah kiri 3x",
+        "kata_kunci"    : []
+    },
 ]
