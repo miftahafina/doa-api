@@ -25,4 +25,4 @@ Kumpulan doa-doa sesuai al-qur'an dan as-sunnah
 
 
 ## Link
-http://tanyadoa-api.herokuapp.com/
+https://tanyadoa-api.herokuapp.com/
