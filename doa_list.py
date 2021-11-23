@@ -398,7 +398,7 @@ doa_list = [
     },
     {
         "id_doa"        : "",
-        "nama"          : "Doa Ketika Hujan 1",
+        "nama"          : "Doa Ketika Turun Hujan 1",
         "lafal"         : "اَللَّهُمَّ صَيِّبًا نَافِعًا",
         "transliterasi" : "Allaahumma shoyyiban naafi'an.",
         "arti"          : "Ya Allah, turunkanlah hujan yang bermanfaat (untuk manusia, tanaman, dan binatang).",
@@ -683,6 +683,146 @@ doa_list = [
         "transliterasi" : "Baarokallaahu laka fii ahlika wa maalika, innamaa jazaa-us-salafil hamdu wal adaa-u.",
         "arti"          : "Semoga Allah memberikan berkah kepadamu dalam keluarga dan hartamu. Sesungguhnya balasan meminjami adalah pujian dan pembayaran.",
         "riwayat"       : "HR. An-Nasai dalam 'Amalul Yaum wal Lailah, hal. 300, Ibnu Majah 2/809, dan lihat Shahih Ibnu Majah 2/55.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Musafir Kepada Orang Yang Ditinggalkan",
+        "lafal"         : "أَسْتَوْدِعُكُمُ اللَّهَ الَّذِيْ لاَ تَضِيْعُ وَدَائِعُهُ",
+        "transliterasi" : "Astaudi'ukumullaahal-ladzii laa tadhii'u wa daa-i'uh.",
+        "arti"          : "Aku menitipkan kamu kepada Allah yang tidak akan hilang titipan-Nya.",
+        "riwayat"       : "HR. Ahmad 2/403, Ibnu Majah 2/943, dan lihat Shahih Ibnu Majah 2/133.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Orang Mukim Kepada Musafir 1",
+        "lafal"         : "أَسْتَوْدِعُ اللَّهَ دِيْنَكَ وَأَمَانَتَكَ وَخَوَاتِيْمَ عَمَلِكَ",
+        "transliterasi" : "Astaudi'ullaaha diinaka wa amaanataka wa khowaatiima 'amalik.",
+        "arti"          : "Aku menitipkan agamamu, amanatmu dan penutup amalmu kepada Allah.",
+        "riwayat"       : "HR. At-Tirmidzi 2/7, At-Tirmidzi 5/499, dan lihat Shahih At-Tirmidzi 2/155.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Orang Mukim Kepada Musafir 2",
+        "lafal"         : "زَوَّدَكَ اللَّهُ التَّقْوَى، وَغَفَرَ ذَنْبَكَ، وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُ مَا كُنْتَ",
+        "transliterasi" : "زَوَّدَكَ اللَّهُ التَّقْوَى، وَغَفَرَ ذَنْبَكَ، وَيَسَّرَ لَكَ الْخَيْرَ حَيْثُ مَا كُنْتَ",
+        "arti"          : "Semoga Allah memberi bekal taqwa kepadamu, mengampuni dosamu dan memudahkan kebaikan kepadamu di mana saja kamu berada.",
+        "riwayat"       : "HR. At-Tirmidzi, lihat Shahih At-Tirmidzi 3/155.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Naik Kendaraan",
+        "lafal"         : "بِسْمِ اللَّهِ، اَلْحَمْدُ لِلَّهِ (سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَـٰذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ. وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ) اَلْحَمْدُ لِلَّهِ، اَلْحَمْدُ لِلَّهِ، اَلْحَمْدُ لِلَّهِ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، سُبْحَانَكَ اللَّهُمَّ إِنِّيْ ظَلَمْتُ نَفْسِيْ فَاغْفِرْ لِيْ، فَإِنَّهُ لاَ يَغْفِرُ الذُّنُوْبَ إِلاَّ أَنْتَ",
+        "transliterasi" : "Bismillaah, alhamdulillaah, (subhaanal-ladzii sakh-khoro lanaa haadzaa wa maa kunnaa lahu muqriniin. Wa innaa ilaa robbinaa lamunqolibuun), alhamdulillaah (3x), allaahu akbar (3x), subhaanakallaahumma innii zholamtu nafsii faghfir lii, fa-innahu laa yaghfirudz-dzunuuba illaa anta.",
+        "arti"          : "Dengan nama Allah, segala puji bagi Allah, (Maha Suci Tuhan yang menundukkan kendaraan ini untuk kami, padahal kami sebelumnya tidak mampu menguasainya. Dan sesungguhnya kami akan kembali kepada Tuhan kami (di hari Kiamat)). Segala puji bagi Allah (3x), Allah Maha Besar (3x), Maha Suci Engkau ya Allah, sesungguhnya aku menganiaya diriku, maka ampunilah aku. Sesungguhnya tidak ada yang mengampuni dosa-dosa kecuali Engkau.",
+        "riwayat"       : "HR. Abu Dawud 3/34, At-Tirmidzi 5/501, dan lihat Shahih At-Tirmidzi 3/156.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Bepergian",
+        "lafal"         : "اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، (سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَـٰذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ. وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ) اَللَّهُمَّ إِنَّا نَسْأَلُكَ فِيْ سَفَرِنَا هَـٰذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اَللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَـٰذَا وَاطْوِ عَنَّا بُعْدَهُ، اَللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيْفَةُ فِي اْلأَهْلِ، اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ وَكَآبَةِ الْمَنْظَرِ وَسُوْءِ الْمُنْقَلَبِ فِي الْمَالِ وَاْلأَهْلِ",
+        "transliterasi" : "Allaahu akbar (3x), (subhaanal-ladzii sakh-khoro lanaa haadzaa wa maa kunnaa lahu muqriniin. Wa innaa ilaa robbinaa lamunqolibuun), allaahumma innaa nas-aluka fii safarinaa haadzal birro wat-taqwaa, wa minal 'amali maa tardhoo, allaahumma hawwin 'alainaa safaronaa haadzaa wathwi 'annaa bu'dah, allaahumma antash-shoohibu fis-safari wal kholiifatu fil ahli, allaahumma innii a'uudzu bika min wa'tsaa-is-safari wa ka-aabatil manzhori wa suu-il munqolabi fil maali wal ahli.",
+        "arti"          : "Allah Maha Besar (3x). (Maha Suci Tuhan yang menundukkan kendaraan ini untuk kami, padahal kami sebelumnya tidak mampu menguasainya. Dan sesungguhnya kami akan kembali kepada Tuhan kami (di hari Kiamat)). Ya Allah, sesungguhnya kami memohon kebaikan dan taqwa dalam bepergian ini, kami mohon perbuatan yang meridhakanMu. Ya Allah, permudahlah perjalanan kami ini, dan dekatkan jaraknya bagi kami. Ya Allah, Engkaulah teman dalam bepergian dan yang mengurusi keluarga(ku). Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kelelahan dalam bepergian, pemandangan yang menyedihkan dan kepulangan yang jelek dalam harta dan keluarga.",
+        "riwayat"       : "HR. Muslim 2/998.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Setelah Kembali dari Bepergian",
+        "lafal"         : "اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، (سُبْحَانَ الَّذِيْ سَخَّرَ لَنَا هَـٰذَا وَمَا كُنَّا لَهُ مُقْرِنِيْنَ. وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُوْنَ) اَللَّهُمَّ إِنَّا نَسْأَلُكَ فِيْ سَفَرِنَا هَـٰذَا الْبِرَّ وَالتَّقْوَى، وَمِنَ الْعَمَلِ مَا تَرْضَى، اَللَّهُمَّ هَوِّنْ عَلَيْنَا سَفَرَنَا هَـٰذَا وَاطْوِ عَنَّا بُعْدَهُ، اَللَّهُمَّ أَنْتَ الصَّاحِبُ فِي السَّفَرِ وَالْخَلِيْفَةُ فِي اْلأَهْلِ، اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ وَعْثَاءِ السَّفَرِ وَكَآبَةِ الْمَنْظَرِ وَسُوْءِ الْمُنْقَلَبِ فِي الْمَالِ وَاْلأَهْلِ آيِبُوْنَ تَائِبُوْنَ عَابِدُوْنَ لِرَبِّنَا حَامِدُوْنَ",
+        "transliterasi" : "Allaahu akbar (3x), (subhaanal-ladzii sakh-khoro lanaa haadzaa wa maa kunnaa lahu muqriniin. Wa innaa ilaa robbinaa lamunqolibuun), allaahumma innaa nas-aluka fii safarinaa haadzal birro wat-taqwaa, wa minal 'amali maa tardhoo, allaahumma hawwin 'alainaa safaronaa haadzaa wathwi 'annaa bu'dah, allaahumma antash-shoohibu fis-safari wal kholiifatu fil ahli, allaahumma innii a'uudzu bika min wa'tsaa-is-safari wa ka-aabatil manzhori wa suu-il munqolabi fil maali wal ahli. Aayibuuna taa-ibuuna 'aabiduuna lirobbinaa haamiduun.",
+        "arti"          : "Allah Maha Besar (3x). (Maha Suci Tuhan yang menundukkan kendaraan ini untuk kami, padahal kami sebelumnya tidak mampu menguasainya. Dan sesungguhnya kami akan kembali kepada Tuhan kami (di hari Kiamat)). Ya Allah, sesungguhnya kami memohon kebaikan dan taqwa dalam bepergian ini, kami mohon perbuatan yang meridhakanMu. Ya Allah, permudahlah perjalanan kami ini, dan dekatkan jaraknya bagi kami. Ya Allah, Engkaulah teman dalam bepergian dan yang mengurusi keluarga(ku). Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kelelahan dalam bepergian, pemandangan yang menyedihkan dan kepulangan yang jelek dalam harta dan keluarga. Kami kembali dengan bertaubat, tetap beribadah dan selalu memuji kepada Tuhan kami.",
+        "riwayat"       : "HR. Muslim 2/998.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Ketika Ada Naikan/Tanjakan Dalam Perjalanan",
+        "lafal"         : "اَللَّهُ أَكْبَرُ",
+        "transliterasi" : "Allaahu akbar.",
+        "arti"          : "Allah Maha Besar.",
+        "riwayat"       : "HR. Al-Bukhari dengan Fathul Bari 6/135.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Ketika Ada Turunan Dalam Perjalanan",
+        "lafal"         : "سُبْحَانَ اللَّهِ",
+        "transliterasi" : "Subhaanallaah.",
+        "arti"          : "Maha Suci Allah.",
+        "riwayat"       : "HR. Al-Bukhari dengan Fathul Bari 6/135.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Musafir Menjelang Subuh",
+        "lafal"         : "سَمَّعَ سَامِعٌ بِحَمْدِ اللَّهِ، وَحُسْنِ بَلاَئِهِ عَلَيْنَا. رَبَّنَا صَاحِبْنَا، وَأَفْضِلْ عَلَيْنَا عَائِذًا بِاللَّهِ مِنَ النَّارِ",
+        "transliterasi" : "Samma'a saami'un bihamdillaah, wa husni balaa-ihi 'alainaa. robbanaa shoohibnaa, wa afdhil 'alainaa 'aa-idzan billaahi minan-naar.",
+        "arti"          : "Semoga ada yang memperdengarkan puji kami kepada Allah (atas nikmat) dan cobaanNya yang baik bagi kami. Wahai Tuhan kami, temanilah kami (peliharalah kami) dan berilah karunia kepada kami dengan berlindung kepada Allah dari api Neraka.",
+        "riwayat"       : "HR. Muslim 4/2086, Syarah An-Nawawi 17/39.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Singgah di Suatu Tempat, Baik Dalam Bepergian Ataupun Tidak",
+        "lafal"         : "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
+        "transliterasi" : "A'uudzu bikalimaatillaahit-taammaati min syarri maa kholaq.",
+        "arti"          : "Aku berlindung dengan kalimat-kalimat Allah yang sempurna, dari kejahatan apa yang diciptakan-Nya.",
+        "riwayat"       : "HR. Tirmidzi 3437 dan An Nasai 5433.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Masuk Desa Atau Kota",
+        "lafal"         : "اَللَّهُمَّ رَبَّ السَّمَاوَاتِ السَّبْعِ وَمَا أَظْلَلْنَ، وَرَبَّ اْلأَرَضِيْنَ السَّبْعِ وَمَا أَقْلَلْنَ، وَرَبَّ الشَّيَاطِيْنِ وَمَا أَضْلَلْنَ، وَرَبَّ الرِّيَاحِ وَمَا ذَرَيْنَ. أَسْأَلُكَ خَيْرَ هَـٰذِهِ الْقَرْيَةِ وَخَيْرَ أَهْلِهَا، وَخَيْرَ مَا فِيْهَا، وَأَعُوْذُ بِكَ مِنْ شَرِّهَا وَشَرِّ أَهْلِهَا وَشَرِّ مَا فِيْهَا",
+        "transliterasi" : "Allaahumma robbas-samaawaatis-sab'i wa maa azhlalna, wa robbal arodhiinas-sab'i wa maa aqlalna, wa robbasy-syayaathiini wa maa adhlalna, wa robbar-riyaahi wa maa dzaroina. As-aluka khoiro haadzihil quryati wa khoiro ahlihaa, wa khoiro maa fiihaa, wa a'uudzu bika min syarrihaa wa syarri ahlihaa wa syarri maa fiihaa.",
+        "arti"          : "Ya Allah, Tuhan tujuh langit dan apa yang dinaunginya, Tuhan penguasa tujuh bumi dan apa yang di atasnya, Tuhan yang menguasai setan-setan dan apa yang mereka sesatkan, Tuhan yang menguasai angin dan apa yang diterbangkannya. Aku mohon kepadaMu kebaikan desa ini, kebaikan penduduknya dan apa yang ada di dalamnya. Aku berlindung kepadaMu dari kejelekan desa ini, kejelekan penduduknya dan apa yang ada di dalamnya.",
+        "riwayat"       : 'HR. Al-Hakim, menurut pendapatnya, hadits tersebut adalah sahih. Imam Adz-Dzahabi menyetujuinya 2/100, Ibnus Sunni, no. 524. Menurut Al-Hafizh Ibnu Hajar dalam Takhrij Adzkar 5/154: "Hadits tersebut adalah hasan." Bin Baz berkata: Hadits itu diriwayatkan pula oleh An-Nasai dengan sanad yang hasan. Lihat Tuhfatul Akhyar, hal. 37.',
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Masuk Pasar, Mall, Terminal, Bandara Dan Pusat Keramaian Lainnya",
+        "lafal"         : "لاَ إِلَـٰهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِيْ وَيُمِيْتُ وَهُوَ حَيٌّ لاَ يَمُوْتُ، بِيَدِهِ الْخَيْرُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ",
+        "transliterasi" : "Laa ilaaha illallaah, wahdahu laa syariika lah, lahul mulku wa lahul hamd, yuhyii wa yumiit, wa huwa hayyun laa yamuut, biyadihil khoir, wa huwa 'alaa kulli syai-in qodiir.",
+        "arti"          : "Tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa, tiada sekutu bagiNya. BagiNya kerajaan, bagiNya segala pujian. Dia-lah Yang Menghidupkan dan Yang Mematikan. Dia-lah Yang Hidup, tidak akan mati. Di tanganNya kebaikan. Dia-lah Yang Maha kuasa atas segala sesuatu.",
+        "riwayat"       : "HR. Turmudzi 5/291, Hakim 1/538, dan dihasankan al-Albani dalam shahih Turmudzi 3/152.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Bila Hewan Tunggangan/Kendaraan Tergelincir",
+        "lafal"         : "بِسْمِ اللَّهِ",
+        "transliterasi" : "Bismillaah.",
+        "arti"          : "Dengan nama Allah.",
+        "riwayat"       : "HR. Abu Dawud 4/296 dan Al-Albani menyatakan, hadits tersebut shahih dalam Shahih Abi Dawud 3/941.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Pulang Dari Bepergian",
+        "lafal"         : "اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ، اَللَّهُ أَكْبَرُ. لاَ إِلَـٰهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيْكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيْرٌ. آيِبُوْنَ تَائِبُوْنَ عَابِدُوْنَ لِرَبِّنَا حَامِدُوْنَ، صَدَقَ اللَّهُ وَعْدَهُ وَنَصَرَ عَبْدَهُ وَهَزَمَ اْلأَحْزَابَ وَحْدَهُ",
+        "transliterasi" : "Allaahu akbar (3x). Laa ilaaha illallaah, wahdahu laa syariika lah, lahul mulku wa lahul hamdu, wa huwa 'alaa kulli syai-in qodiir. Aayibuuna taa-ibuuna 'aabiduuna lirobbinaa haamiduun, shodaqollaahu wa'dah, wa nashoro 'abdah, wa hazamal ahzaaba wahdah.",
+        "arti"          : "Allah Maha Besar (3x). Tidak ada sesembahan yang berhak disembah kecuali Allah, Yang Maha Esa, tiada sekutu bagiNya. Bagi-Nya kerajaan dan pujaan. Dia-lah Yang Mahakuasa atas segala sesuatu. Kami kembali dengan bertaubat, beribadah dan memuji kepada Tuhan kami. Allah telah menepati janjiNya, membela hambaNya (Muhammad) dan mengalahkan golongan musuh dengan sendirian.",
+        "riwayat"       : "",
         "keterangan"    : None,
         "kata_kunci"    : []
     },

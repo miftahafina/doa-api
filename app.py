@@ -92,9 +92,7 @@ def search(search_query):
 
     if result_list:
         result_list.sort(key=operator.itemgetter("kecocokan"), reverse=True)
-
-        return jsonify(result_list) # comment this line
-
+        # return jsonify(result_list) # comment this line on production server
 
         highest_kecocokan = result_list[0]["kecocokan"]
 
