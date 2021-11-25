@@ -966,4 +966,171 @@ doa_list = [
         "keterangan"    : None,
         "kata_kunci"    : []
     },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Istri Dan Anak Sebagai Penyenang Hati",
+        "lafal"         : "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+        "transliterasi" : "Robbanaa hab lanaa min azwaajinaa wa dzurriyyaatinaa qurrota a'yun, waj'alnaa lil muttaqiina imaamaa.",
+        "arti"          : "Ya Rabb kami, anugrahkanlah kepada kami isteri-isteri kami dan keturunan kami sebagai penyenang hati (kami), dan jadikanlah kami imam bagi orang-orang yang bertakwa.",
+        "riwayat"       : "(Al-Furqan [25]: 74).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Banyak Harta Dan Anak (Doa Nabi Muhammad)",
+        "lafal"         : "اَللَّهُمَّ أَكْثِرْ مَالِي، وَوَلَدِي، وَبَارِكْ لِي فِيمَا أَعْطَيْتَنِي",
+        "transliterasi" : "Allaahumma ak-tsir maalii wa waladii, wa baarik lii fiimaa a'thoitanii.",
+        "arti"          : "Ya Allah, perbanyaklah harta dan anakku, serta berkahilah karunia yang Engkau beri.",
+        "riwayat"       : "HR. Bukhari no. 6334 dan Muslim no. 2480.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Banyak Harta, Anak, Panjang Umur, Dibaguskan Amal Dan Diampuni Dosa (Doa Nabi Muhammad)",
+        "lafal"         : "اَللَّهُمَّ أَكْثِرْ مَالِي، وَوَلَدِي، وَبَارِكْ لِي فِيمَا أَعْطَيْتَنِي، وَأَطِلْ حَيَاتِي عَلَى طَاعَتِكَ، وَأَحْسِنْ عَمَلِي، وَاغْفِرْ لِي",
+        "transliterasi" : "Allaahumma ak-tsir maalii wa waladii, wa baarik lii fiimaa a'thoitanii, wa athil hayaatii 'alaa thoo'atik, wa ahsin 'amalii, wagh-fir lii.",
+        "arti"          : "Ya Allah, perbanyaklah harta dan anakku, serta berkahilah karunia yang Engkau beri. Panjangkanlah umurku dalam ketaatan kepada-Mu, dan baguskanlah amalku serta ampunilah dosa-dosaku.",
+        "riwayat"       : "HR. Bukhari no. 6334 dan Muslim no. 2480.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Anak Shaleh 1 (Doa Nabi Ibrahim)",
+        "lafal"         : "رَبِّ هَبْ لِي مِنَ الصَّالِحِينَ",
+        "transliterasi" : "Robbi hab lii minash-shoolihiin.",
+        "arti"          : "Ya Rabb-ku, anugrahkanlah kepadaku (seorang anak) yang termasuk orang-orang yang saleh.",
+        "riwayat"       : "(Ash-Shaffat [37]: 100).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Anak Shaleh 2 (Doa Nabi Dzakariya)",
+        "lafal"         : "رَبِّ هَبْ لِي مِنْ لَدُنْكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاءِ",
+        "transliterasi" : "Robbi hab lii mil-ladunka dzurriyyatan thoyyibah, innaka samii'ud-du'aa'.",
+        "arti"          : "Ya Rabb-ku, berilah aku dari sisi Engkau seorang anak yang baik. Sesungguhnya Engkau Maha Mendengar doa.",
+        "riwayat"       : "(Ali Imran [3]: 38).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Keturunan (Doa Nabi Dzakariya)",
+        "lafal"         : "رَبِّ لَا تَذَرْنِي فَرْدًا وَأَنتَ خَيْرُ الْوَارِثِينَ",
+        "transliterasi" : "Robbi laa tadzarnii fardan, wa anta khoirul waaritsiin.",
+        "arti"          : "Ya Rabb-ku, janganlah Engkau biarkan aku hidup seorang diri (tanpa keturunan), dan Engkaulah Waris yang Paling Baik.",
+        "riwayat"       : "(Al-Anbiya' [21]: 89).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Menjadi Hamba Yang Bersyukur, Agar Bisa Beramal Shaleh Dan Minta Anak Shaleh",
+        "lafal"         : "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَصْلِحْ لِي فِي ذُرِّيَّتِي إِنِّي تُبْتُ إِلَيْكَ وَإِنِّي مِنَ الْمُسْلِمِينَ",
+        "transliterasi" : "Robbi auzi'nii an asykuro ni'matakallatii an'amta 'alayya wa 'alaa waalidayya wa an a'mala shoolihan tardhoohu, wa ashlih lii fii dzurriyyatii, innii tubtu ilaika wa innii minal muslimiin.",
+        "arti"          : "Ya Rabbku, tunjukilah aku untuk mensyukuri nikmat-Mu yang telah Engkau berikan kepadaku dan kepada ibu bapakku, dan supaya aku dapat berbuat amal shaleh yang Engkau ridhai. Berilah kebaikan kepadaku dengan (memberi kebaikan) kepada anak cucuku. Sesungguhnya aku bertaubat kepada-Mu dan sesungguhnya aku termasuk orang-orang yang berserah diri.",
+        "riwayat"       : "(Al-Ahqaf [46]: 15).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Ucapan Selamat Kepada Orang Yang Dikaruniai Anak Dan Balasannya",
+        "lafal"         : "بَارَكَ اللَّهُ لَكَ فِي الْمَوْهُوْبِ لَكَ، وَشَكَرْتَ الْوَاهِبَ، وَبَلَغَ أَشُدَّهُ، وَرُزِقْتَ بِرَّهُ",
+        "transliterasi" : "Baarokallaahu laka fil mauhuubi laka, wa syakartal waahiba, wa balagho asyuddahu, wa ruziqta birroh.",
+        "arti"          : "Semoga Allah memberkahimu dalam anak yang diberikan kepadamu. Semoga kamu bersyukur kepada Sang Pemberi, dan dia dapat mencapai dewasa, serta kamu dikaruniai kebaikannya.",
+        "riwayat"       : "Lihat Al-Adzkar, karya An-Nawawi, hal. 349, dan Shahih Al-Adzkar lin Nawawi, oleh Salim Al-Hilali 2/713.",
+        "keterangan"    : """Sedang orang yang diberi ucapan selamat membalas dengan mengucapkan:
+
+بَارَكَ اللَّهُ لَكَ وَبَارَكَ عَلَيْكَ، وَجَزَاكَ اللَّهُ خَيْرًا، وَرَزَقَكَ اللَّهُ مِثْلَهُ، وَأَجْزَلَ ثَوَابَكَ
+
+Baarokallaahu laka wa baaroka 'alaika, wa jazaakallaahu khoiron, wa rozaqokallaahu mitslahu, wa ajzala tsawaabak.
+
+Semoga Allah juga memberkahimu dan melimpahkan kebahagiaan untukmu. Semoga Allah membalasmu dengan sebaik-baik balasan, mengaruniakan kepadamu seperti itu dan melipatgandakan pahalamu.
+""",
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Anak Terjaga Dari Zina",
+        "lafal"         : "اَللَّهُمَّ اغْفِرْ ذَنْبَهُ، وَطَهِّرْ قَلْبَهُ، وَحَصِّنْ فَرْجَهُ",
+        "transliterasi" : "Allaahummagh-fir dzanbahu, wa thohhir qolbahu, wa hash-shin farjahu.",
+        "arti"          : "Ya Allah, ampunilah dosanya, sucikanlah hatinya, dan jagalah kemaluannya.",
+        "riwayat"       : "HR. Ahmad, At Thabrani, Al Baihaqy dan dinyatakan sebagai hadits shahih oleh Al Albany.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Perlindungan Kepada Anak Laki-laki (Doa Istri Imran)",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أُعِيذُهُ بِكَ وَذُرِّيَّتَهُ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "transliterasi" : "Allaahumma innii u'iidzuhu bika wa dzurriyyatahu minasy-syaithoonir-rojiim.",
+        "arti"          : "Ya Allah, aku memohon perlindungan kepada-Mu untuknya dan keturunannya dari setan yang terkutuk.",
+        "riwayat"       : "(Ali Imran [3]: 36).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Perlindungan Kepada Anak Perempuan (Doa Istri Imran)",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أُعِيذُهَا بِكَ وَذُرِّيَّتَهَا مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "transliterasi" : "Allaahumma innii u'iidzuhaa bika wa dzurriyyatahaa minasy-syaithoonir-rojiim.",
+        "arti"          : "Ya Allah, aku memohon perlindungan kepada-Mu untuknya dan keturunannya dari setan yang terkutuk.",
+        "riwayat"       : "",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Perlindungan Kepada Anak Laki-laki (Doa Nabi Muhammad)",
+        "lafal"         : "أُعِيْذُكَ بِكَلِمَاتِ اللَّهِ التَّامَّةِ، مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+        "transliterasi" : "U'iidzuka bikalimaatillaahit-taammah, min kulli syaithoonin wa haammah, wa min kulli 'ainin laammah.",
+        "arti"          : "Aku memohon perlindungan untukmu dengan kalimat-kalimat Allah yang sempurna, dari semua godaan setan dan binatang pengganggu, dan dari pandangan mata buruk.",
+        "riwayat"       : "HR. Abu Daud 3371, dan dishahihkan al-Albani.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Perlindungan Kepada Anak Perempuan (Doa Nabi Muhammad)",
+        "lafal"         : "أُعِيْذُكِ بِكَلِمَاتِ اللَّهِ التَّامَّةِ، مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+        "transliterasi" : "U'iidzuki bikalimaatillaahit-taammah, min kulli syaithoonin wa haammah, wa min kulli 'ainin laammah.",
+        "arti"          : "Aku memohon perlindungan untukmu dengan kalimat-kalimat Allah yang sempurna, dari semua godaan setan dan binatang pengganggu, dan dari pandangan mata buruk.",
+        "riwayat"       : "HR. Abu Daud 3371, dan dishahihkan al-Albani",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Keteguhan Hati 1",
+        "lafal"         : "يَا مُقَلِّبَ الْقُلُوبِ، ثَبِّتْ قَلْبِى عَلَى دِينِكَ",
+        "transliterasi" : "Yaa muqollibal quluub, tsabbit qolbii 'alaa diinik.",
+        "arti"          : "Wahai Dzat yang Maha Membolak-balikkan hati, teguhkanlah hatiku di atas agama-Mu.",
+        "riwayat"       : "HR. Tirmidzi no. 3522. Syaikh Al Albani mengatakan bahwa hadits ini shahih.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Keteguhan Hati 2",
+        "lafal"         : "اَللَّهُمَّ مُصَرِّفَ الْقُلُوبِ، صَرِّفْ قُلُوبَنَا عَلَى طَاعَتِكَ",
+        "transliterasi" : "Allaahumma mushorrifal quluub, shorrif quluubanaa 'alaa thoo'atik.",
+        "arti"          : "Ya Allah, Dzat yang memalingkan hati, palingkanlah hati kami kepada ketaatan beribadah kepada-Mu.",
+        "riwayat"       : "",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Keteguhan Hati 3",
+        "lafal"         : "اَللَّهُمَّ يَا مُصَرِّفَ الْقُلُوْبِ، صَرِّفْ قُلُوْبَنَا عَلَى دِيْنِكَ",
+        "transliterasi" : "Allaahumma yaa mushorrifal quluub, shorrif quluubanaa 'alaa diinik.",
+        "arti"          : "Ya Allah, Dzat yang memalingkan hati, palingkanlah hati kami pada agama-Mu.",
+        "riwayat"       : "HR. Muslim 2654.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
 ]
