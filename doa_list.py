@@ -886,4 +886,84 @@ doa_list = [
         "keterangan"    : None,
         "kata_kunci"    : []
     },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Akhlak Mulia 1",
+        "lafal"         : "اَللَّهُمَّ أَحْسَنْتَ خَلْقِي فَأَحْسِنْ خُلُقِي",
+        "transliterasi" : "Allaahumma ahsanta kholqii, fa-ahsin khuluqii.",
+        "arti"          : "Ya Allah, Engkau telah memperbagus penciptaanku, maka baguskanlah akhlakku.",
+        "riwayat"       : "HR. Ahmad, dishahihkan oleh Asy Syaikh Al Albani.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Akhlak Mulia 2",
+        "lafal"         : "اَللَّهُمَّ اهْدِنِى لِأَحْسَنِ الأَخْلَاقِ، لَا يَهْدِى لِأَحْسَنِهَا إِلَّا أَنْتَ، وَاصْرِفْ عَنِّى سَيِّئَهَا، لَا يَصْرِفُ عَنِّى سَيِّئَهَا إِلَّا أَنْتَ",
+        "transliterasi" : "Allaahummahdinii li-ahsanil akhlaaq, laa yahdii li-ahsanihaa illaa anta, wash-rif 'annii sayyi-ahaa, laa yash-rifu 'annii sayyi-ahaa illaa anta.",
+        "arti"          : "Ya Allah, tunjukkanlah aku kepada akhlak yang baik, tidak ada yang dapat menunjukkannya kecuali Engkau. Dan palingkanlah dariku kejelekan akhlak, tidak ada yang dapat memalingkannya kecuali Engkau.",
+        "riwayat"       : "HR. Muslim no. 771, dari ‘Ali bin Abi Tholib.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Akhlak Dan Amal Yang Baik",
+        "lafal"         : "اَللَّهُمَّ اهْدِنِيْ لِأَحْسَنِ الْأَعْمَالِ، وَأَحْسَنِ الْأَخْلَاقِ، لَا يَهْدِي لِأَحْسَنِهَا إِلَّا أَنْتَ، وَقِنِي سَيِّئَ الْأَعْمَالِ، وَسَيِّئَ الْأَخْلَاقِ، لَا يَقِي سَيِّئَهَا إِلَّا أَنْتَ",
+        "transliterasi" : "Allaahummahdinii li-ahsanil a'maal, wa ahsanil akhlaaq, laa yahdii li-ahsanihaa illaa anta, wa qinii sayyi-al a'maal, wa sayyi-al akhlaaq, laa yaqii sayyi-ahaa illaa anta.",
+        "arti"          : "Ya Allah, berilah petunjuk kepadaku untuk berbuat sebaik-baik amalan, sebaik-baik akhlak, tidak ada yang bisa menunjuki untuk berbuat sebaik-baiknya kecuali Engkau. Dan lindungi kami dari jeleknya amalan dan jeleknya akhlak, dan tidak ada yang melindungi dari kejelekannya kecuali Engkau",
+        "riwayat"       : "HR. An Nasa'i.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Kemungkaran Akhlak, Amal Dan Hawa Nafsu",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ مُنْكَرَاتِ الْأَخْلَاقِ، وَالْأَعْمَالِ، وَالْأَهْوَاءِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min munkarootil akhlaaq, wal a'maal, wal ahwaa'.",
+        "arti"          : "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kemungkaran akhlak, amal dan hawa nafsu.",
+        "riwayat"       : "HR. Tirmidzi no. 3591, shahih.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Kemungkaran Akhlak, Amal, Hawa Nafsu Dan Penyakit 1",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ مُنْكَرَاتِ الْأَخْلَاقِ، وَالْأَعْمَالِ، وَالْأَهْوَاءِ، وَالْأَدْوَاءِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min munkarootil akhlaaq, wal a'maal, wal ahwaa', wal adwaa'.",
+        "arti"          : "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kemungkaran akhlak, amal, hawa nafsu dan penyakit.",
+        "riwayat"       : "HR. At-Tirmidzi dan dishahihkan oleh Al-Albani.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ampun Untuk Diri Sendiri, Orang Tua Dan Kaum Mukminin (Doa Nabi Ibrahim)",
+        "lafal"         : "رَبَّنَا اغْفِرْ لِي وَلِوَالِدَيَّ وَلِلْمُؤْمِنِينَ يَوْمَ يَقُومُ الْحِسَابُ",
+        "transliterasi" : "Robbanagh-fir lii wa liwaalidayya wa lil mu'miniina yauma yaquumul hisaab.",
+        "arti"          : "Ya Tuhan kami, beri ampunlah aku dan kedua ibu bapakku dan sekalian orang-orang mukmin pada hari terjadinya hisab (hari kiamat).",
+        "riwayat"       : "(Ibrahim [14]: 41).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ampun Untuk Diri Sendiri, Orang Tua Dan Kaum Mukminin (Doa Nabi Nuh)",
+        "lafal"         : "رَّبِّ اغْفِرْ لِي وَلِوَالِدَيَّ وَلِمَن دَخَلَ بَيْتِيَ مُؤْمِنًا وَلِلْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ وَلَا تَزِدِ الظَّالِمِينَ إِلَّا تَبَارًا",
+        "transliterasi" : "Robbigh-fir lii wa liwaalidayya wa liman dakhola baitiya mu'minan wa lil mu'miniina wal mu'minaati wa laa tazidizh-zhoolimiina illaa tabaaroo.",
+        "arti"          : "Ya Tuhanku! Ampunilah aku, ibu bapakku, orang yang masuk ke rumahku dengan beriman dan semua orang yang beriman laki-laki dan perempuan. Dan janganlah Engkau tambahkan bagi orang-orang yang zalim itu selain kebinasaan.",
+        "riwayat"       : "(Nuh [71]: 28).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Kasih Sayang Untuk Orang Tua",
+        "lafal"         : "رَّبِّ ارْحَمْهُمَا كَمَا رَبَّيَانِي صَغِيرًا",
+        "transliterasi" : "Robbir-hamhumaa kamaa robbayaanii shoghiiroo.",
+        "arti"          : "Wahai Tuhanku, kasihilah mereka keduanya, sebagaimana mereka berdua telah mendidik aku waktu kecil.",
+        "riwayat"       : "(Al-Isra' [17]: 24).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
 ]
