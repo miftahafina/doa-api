@@ -1235,7 +1235,7 @@ Semoga Allah juga memberkahimu dan melimpahkan kebahagiaan untukmu. Semoga Allah
     },
     {
         "id_doa"        : "",
-        "nama"          : "Doa Berlindung Dari Syirik 1",
+        "nama"          : "Doa Berlindung Dari Syirik",
         "lafal"         : "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لاَ أَعْلَمُ",
         "transliterasi" : "Allaahumma innii a'uudzu bika an usyrika bika wa anaa a'lam, wa astagh-firuka limaa laa a'lam.",
         "arti"          : "Ya Allah, aku berlindung kepada-Mu dari menyekutukan-Mu sedangkan aku mengetahuinya, dan aku memohon ampun terhadap apa yang tidak aku ketahui.",
