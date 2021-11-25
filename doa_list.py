@@ -1133,4 +1133,164 @@ Semoga Allah juga memberkahimu dan melimpahkan kebahagiaan untukmu. Semoga Allah
         "keterangan"    : None,
         "kata_kunci"    : []
     },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ampun Dan Rahmat 1",
+        "lafal"         : "رَبَّنَا آمَنَّا فَاغْفِرْ لَنَا وَارْحَمْنَا وَأَنْتَ خَيْرُ الرَّاحِمِينَ",
+        "transliterasi" : "Robbanaa, aamannaa, fagh-fir lanaa warhamnaa, wa anta khoirur-roohimiin.",
+        "arti"          : "Ya Tuhan kami, kami telah beriman, maka ampunilah kami dan berilah kami rahmat, dan Engkau adalah Pemberi rahmat Yang Paling Baik.",
+        "riwayat"       : "(Al Mu’minun [23]: 109).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ampun Dan Rahmat 2",
+        "lafal"         : "رَبِّ اغْفِرْ وَارْحَمْ وَأَنْتَ خَيْرُ الرَّاحِمِينَ",
+        "transliterasi" : "Robbigh-fir warham, wa anta khoirur-roohimiin.",
+        "arti"          : "Ya Tuhanku, berilah ampun dan berilah rahmat, dan Engkau adalah Pemberi rahmat Yang Paling baik.",
+        "riwayat"       : "(Al Mu’minun [23]: 118).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ampun Dan Rahmat 3 (Doa Nabi Adam)",
+        "lafal"         : "رَبَّنَا ظَلَمْنَا أَنْفُسَنَا وَإِنْ لَمْ تَغْفِرْ لَنَا وَتَرْحَمْنَا لَنَكُونَنَّ مِنَ الْخَاسِرِينَ",
+        "transliterasi" : "Robbanaa zholamnaa anfusanaa, wa in lam tagh-fir lanaa wa tarhamnaa, lanakuunanna minal khoosiriin.",
+        "arti"          : "Ya Tuhan kami, kami telah menganiaya diri kami sendiri, dan jika Engkau tidak mengampuni kami dan memberi rahmat kepada kami, niscaya pastilah kami termasuk orang-orang yang merugi.",
+        "riwayat"       : "(Al A'raf [7]: 23).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ampun (Doa Nabi Musa)",
+        "lafal"         : "رَبِّ إِنِّي ظَلَمْتُ نَفْسِي فَاغْفِرْ لِي",
+        "transliterasi" : "Robbi innii zholamtu nafsii, fagh-fir lii.",
+        "arti"          : "Ya Tuhanku, sesungguhnya aku telah menganiaya diriku sendiri, karena itu ampunilah aku.",
+        "riwayat"       : "(Al Qashash [28]: 16).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ampun, Rahmat, Petunjuk, Keselamatan Dan Rizki",
+        "lafal"         : "اَللَّهُمَّ اغْفِرْ لِيْ، وَارْحَمْنِيْ، وَاهْدِنِيْ، وَعَافِنِيْ، وَارْزُقْنِيْ",
+        "transliterasi" : "Allaahummagh-fir lii, warhamnii, wahdinii, wa 'aafinii, warzuqnii.",
+        "arti"          : "Ya Allah, ampunilah aku, kasihanilah aku, berilah petunjuk kepadaku, selamatkanlah aku (dari penyakit dan dari apa yang tidak kuinginkan) dan berilah rezeki kepadaku.",
+        "riwayat"       : "HR. Muslim no. 35 dan 2697.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ampun Dan Berlindung Dari Neraka",
+        "lafal"         : "رَبَّنَا إِنَّنَا آمَنَّا فَاغْفِرْ لَنَا ذُنُوبَنَا وَقِنَا عَذَابَ النَّارِ",
+        "transliterasi" : "Robbanaa innanaa aamannaa, fagh-fir lanaa dzunuubanaa, wa qinaa 'adzaaban-naar.",
+        "arti"          : "Ya Tuhan kami, sesungguhnya kami telah beriman, maka ampunilah segala dosa kami, dan peliharalah kami dari siksa neraka.",
+        "riwayat"       : "(Ali Imran [3]: 16).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ampun, Dihapuskan Kesalahan Dan Agar Tidak Dihinakan Pada Hari Kiamat",
+        "lafal"         : "رَبَّنَا إِنَّنَا سَمِعْنَا مُنَادِيًا يُنَادِي لِلْإِيمَانِ أَنْ آمِنُوا بِرَبِّكُمْ فَآمَنَّا رَبَّنَا فَاغْفِرْ لَنَا ذُنُوبَنَا وَكَفِّرْ عَنَّا سَيِّئَاتِنَا وَتَوَفَّنَا مَعَ الْأَبْرَارِ رَبَّنَا وَآتِنَا مَا وَعَدْتَنَا عَلَى رُسُلِكَ وَلَا تُخْزِنَا يَوْمَ الْقِيَامَةِ إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ",
+        "transliterasi" : "Robbanaa innanaa sami'naa munaadiyan yunaadii lil iimaani an aaminuu birobbikum, fa-aamannaa, robbanaa fagh-fir lanaa dzunuubanaa, wa kaffir 'annaa sayyi-aatinaa, wa tawaffanaa ma'al abroor, robbanaa wa aatinaa maa wa 'adtanaa 'alaa rusulika, wa laa tukh-zinaa yaumal qiyaamah, innaka laa tukh-liful mii'aad.",
+        "arti"          : "Ya Tuhan kami, sesungguhnya kami mendengar (seruan) yang menyeru kepada iman, (yaitu): “Berimanlah kamu kepada Tuhanmu”, maka kamipun beriman. Ya Tuhan kami, ampunilah bagi kami dosa-dosa kami, dan hapuskanlah dari kami kesalahan-kesalahan kami, dan wafatkanlah kami beserta orang-orang yang banyak berbakti. Ya Tuhan kami, berilah kami apa yang telah Engkau janjikan kepada kami dengan perantaraan rasul-rasul Engkau. Dan janganlah Engkau hinakan kami di hari kiamat. Sesungguhnya Engkau tidak menyalahi janji.",
+        "riwayat"       : "(Ali Imran [3]: 193-194).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ampun Untuk Diri Sendiri Dan Kaum Mukminin, Dan Agar Tidak Dengki Kepada Orang Beriman",
+        "lafal"         : "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَحِيمٌ",
+        "transliterasi" : "Robbanagh-fir lanaa wa li-ikhwaaninal-ladziina sabaquunaa bil-iimaan, wa laa taj'al fii quluubinaa ghillan lilladziina aamanuu, robbanaa innaka ro-uufun rohiim.",
+        "arti"          : "Ya Rabb kami, beri ampunlah kami dan saudara-saudara kami yang telah beriman lebih dulu dari kami, dan janganlah Engkau membiarkan kedengkian dalam hati kami terhadap orang-orang yang beriman. Ya Rabb kami, Sesungguhnya Engkau Maha Penyantun lagi Maha Penyayang.",
+        "riwayat"       : "(Al Hasyr [59]: 10).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ampun Pada Hari Pembalasan",
+        "lafal"         : "رَبِّ اغْفِرْ لِي خَطِيئَتِي يَوْمَ الدِّينِ",
+        "transliterasi" : "Robbigh-fir lii khothii-atii yaumad-diin.",
+        "arti"          : "Ya Rabbi, ampunilah kesalahanku pada hari Pembalasan.",
+        "riwayat"       : "HR. Muslim.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ampun, Rahmat, Dan Ditetapkan Kebaikan Di Dunia Dan Akhirat (Doa Nabi Musa)",
+        "lafal"         : "أَنتَ وَلِيُّنَا، فَاغْفِرْ لَنَا، وَارْحَمْنَا، وَأَنتَ خَيْرُ الْغَافِرِينَ، وَاكْتُبْ لَنَا فِي هَـٰذِهِ الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ، إِنَّا هُدْنَا إِلَيْكَ",
+        "transliterasi" : "Anta waliyyunaa, fagh-fir lanaa, war hamnaa, wa anta khoirul ghoofiriin, waktub lanaa fii haadzihid-dunyaa hasanatan wa fil aakhiroh, innaa hudnaa ilaik.",
+        "arti"          : "Engkaulah Yang memimpin kami, maka ampunilah kami, dan berilah kami rahmat, dan Engkaulah Pemberi ampun yang sebaik-baiknya. Dan tetapkanlah untuk kami kebajikan di dunia ini dan di akhirat, sesungguhnya kami kembali (bertaubat) kepada Engkau. (Al-A'raf [7]: 155-156).",
+        "riwayat"       : "",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Syirik 1",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لاَ أَعْلَمُ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika an usyrika bika wa anaa a'lam, wa astagh-firuka limaa laa a'lam.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari menyekutukan-Mu sedangkan aku mengetahuinya, dan aku memohon ampun terhadap apa yang tidak aku ketahui.",
+        "riwayat"       : "HR. Ahmad dan imam yang lain 4/403, lihat Shahihul Jami' 3/233, dan Shahihut Targhrib wat Tarhib oleh Al-Albani 1/19.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Empat Hal 1",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أَعُوْذُبِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَمِنْ قَلْبٍ لَا يَخْشَعُ، وَمِنْ نَفْسٍ لَا تَشْبَعُ، وَمِنْ دَعْوَةٍ لَا يُسْتَجَابُ لَهَا",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min 'ilmin laa yanfa', wa min qolbin laa yakhsya', wa min nafsin laa tasyba', wa min da'watin laa yustajaabulahaa.",
+        "arti"          : "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat, hati yang tidak khusyuk, jiwa yang tidak merasa kenyang (puas), dan dari doa yang tidak dikabulkan.",
+        "riwayat"       : "HR. Muslim no. 2722 dari Zaid bin Arqam.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Empat Hal 2",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَمِنْ قَلْبٍ لَا يَخْشَعُ، وَمِنْ نَفْسٍ لَا تَشْبَعُ، وَمِنْ دُعَاءٍ لَا يُسْمَعُ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min 'ilmin laa yanfa', wa min qolbin laa yakhsya', wa min nafsin laa tasyba', wa min du'aa-in laa yusma'.",
+        "arti"          : "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat, hati yang tidak khusyuk, jiwa yang tidak merasa kenyang (puas), dan dari doa yang tidak didengar (tidak dikabulkan).",
+        "riwayat"       : "HR. Abu Dawud no. 1548, An-Nasa’i no. 5536, dan Ibnu Majah no. 3837. Hadits ini shahih.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Empat Hal 3",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ، وَعَمَلٍ لَا يُرْفَعُ، وَقَلْبٍ لَا يَخْشَعُ، وَقَوْلٍ لَا يُسْمَعُ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min 'ilmin laa yanfa', wa 'amalin laa yurfa', wa qolbin laa yakhsya', wa qoulin laa yusma'.",
+        "arti"          : "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat, amal yang tidak diangkat, hati yang tidak khusyuk, dan ucapan yang tidak didengar.",
+        "riwayat"       : "HR. Ibnu Hibban, Abu Ya’la, Ahmad, Ibnu Abi Syaibah, dishahihkan Al-Albani dalam at-Ta’liqat al-Hisan no 83, juga dalam Kitab al-‘Ilmi Abu Khaitsamah, hlm. 64.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Kecelakaan dan Kematian Yang Mengerikan 1",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ التَّرَدِّي، وَالْهَدْمِ، وَالْغَرَقِ، وَالْحَرِيقِ، وَأَعُوذُ بِكَ أَنْ يَتَخَبَّطَنِي الشَّيْطَانُ عِنْدَ الْمَوْتِ، وَأَعُوذُ بِكَ أَنْ أَمُوتَ فِي سَبِيلِكَ مُدْبِرًا، وَأَعُوذُ بِكَ أَنْ أَمُوتَ لَدِيغًا",
+        "transliterasi" : "Allaahumma innii a'uudzu bika minat-taroddii, wal hadmi, wal ghoroqi, wal hariiqi, wa a'uudzu bika an yatakhobbathonisy-syaithoonu 'indal mauti, wa a'uudzu bika an amuuta fii sabiilika mudbiron, wa a'uudzu bika an amuuta ladiighon.",
+        "arti"          : "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kebinasaan (terjatuh), kehancuran (tertimpa sesuatu), tenggelam, kebakaran, dan aku berlindung kepada-Mu dari disesatkan setan pada saat mati, dan aku berlindung kepada-Mu dari mati dalam keadaan berpaling dari jalan-Mu, dan aku berlindung kepada-Mu dari mati dalam keadaan tersengat.",
+        "riwayat"       : "HR. An-Nasa’i no. 5531. Al-Hafizh Abu Thahir mengatakan bahwa sanad hadits ini shahih.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Tidak Disesatkan Setan Menjelang Kematian",
+        "lafal"         : "أَعُوذُ بِكَ أَنْ يَتَخَبَّطَنِي الشَّيْطَانُ عِنْدَ الْمَوْتِ",
+        "transliterasi" : "A'uudzu bika an yatakhobbathonisy-syaithoonu 'indal maut.",
+        "arti"          : "Aku berlindung kepada-Mu agar tidak disesatkan setan ketika kematian.",
+        "riwayat"       : "HR. Ahmad 8667, Abu Daud 1554 dan dishahihkan al-Albani.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
 ]
