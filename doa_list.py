@@ -448,7 +448,7 @@ doa_list = [
     },
     {
         "id_doa"        : "",
-        "nama"          : "Doa Pengantin Pria Kepada Pasangannya",
+        "nama"          : "Doa Pengantin Pria Kepada Pasangannya / Doa Malam Pertama",
         "lafal"         : "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ خَيْرَهَا وَخَيْرَ مَا جَبَلْتَهَا عَلَيْهِ، وَأَعُوْذُ بِكَ مِنْ شَرِّهَا وَشَرِّ مَا جَبَلْتَهَا عَلَيْهِ",
         "transliterasi" : "Allaahumma innii as-aluka khoirohaa, wa khoiro maa jabaltahaa 'alaihi, wa a'uudzu bika min syarrihaa, wa syarri maa jabaltahaa 'alaihi.",
         "arti"          : "Ya Allah, sesungguhnya aku mohon kepadaMu kebaikan perempuan atau budak ini dan apa yang telah Engkau ciptakan dalam wataknya. Dan aku mohon perlindungan kepadaMu dari kejelekan perempuan atau budak ini dan apa yang telah Engkau ciptakan dalam wataknya.",
@@ -551,7 +551,7 @@ doa_list = [
         "nama"          : "Doa Belasungkawa (Takziyah)",
         "lafal"         : "إِنَّ لِلَّهِ مَا أَخَذَ، وَلَهُ مَا أَعْطَى وَكُلُّ شَيْءٍ عِنْدَهُ بِأَجَلٍ مُسَمًّى، فَلْتَصْبِرْ وَلْتَحْتَسِبْ",
         "transliterasi" : "Inna lillaahi maa akhodza, wa lahu maa a'thoo wa kullu syai-in 'indahu bi-ajalin musamman, faltashbir wal tahtasib.",
-        "arti"          : "Sesungguhnya hak Allah adalah mengambil sesuatu dan memberikan sesuatu. Segala sesuatu yang di sisi-Nya dibatasi dengan ajal yang ditentukan. Oleh karena itu, bersabarlah dan carilah ridha Allah. [1]",
+        "arti"          : "Sesungguhnya hak Allah adalah mengambil sesuatu dan memberikan sesuatu. Segala sesuatu yang di sisi-Nya dibatasi dengan ajal yang ditentukan. Oleh karena itu, bersabarlah dan carilah ridha Allah.",
         "riwayat"       : "HR. Al-Bukhari 2/80, Muslim 2/636.",
         "keterangan"    : None,
         "kata_kunci"    : []
@@ -1275,7 +1275,7 @@ Semoga Allah juga memberkahimu dan melimpahkan kebahagiaan untukmu. Semoga Allah
     },
     {
         "id_doa"        : "",
-        "nama"          : "Doa Berlindung Dari Kecelakaan dan Kematian Yang Mengerikan 1",
+        "nama"          : "Doa Berlindung Dari Kecelakaan dan Kematian Yang Mengerikan",
         "lafal"         : "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ التَّرَدِّي، وَالْهَدْمِ، وَالْغَرَقِ، وَالْحَرِيقِ، وَأَعُوذُ بِكَ أَنْ يَتَخَبَّطَنِي الشَّيْطَانُ عِنْدَ الْمَوْتِ، وَأَعُوذُ بِكَ أَنْ أَمُوتَ فِي سَبِيلِكَ مُدْبِرًا، وَأَعُوذُ بِكَ أَنْ أَمُوتَ لَدِيغًا",
         "transliterasi" : "Allaahumma innii a'uudzu bika minat-taroddii, wal hadmi, wal ghoroqi, wal hariiqi, wa a'uudzu bika an yatakhobbathonisy-syaithoonu 'indal mauti, wa a'uudzu bika an amuuta fii sabiilika mudbiron, wa a'uudzu bika an amuuta ladiighon.",
         "arti"          : "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari kebinasaan (terjatuh), kehancuran (tertimpa sesuatu), tenggelam, kebakaran, dan aku berlindung kepada-Mu dari disesatkan setan pada saat mati, dan aku berlindung kepada-Mu dari mati dalam keadaan berpaling dari jalan-Mu, dan aku berlindung kepada-Mu dari mati dalam keadaan tersengat.",
