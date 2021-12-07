@@ -1903,4 +1903,124 @@ Semoga Allah juga memberkahimu dan melimpahkan kebahagiaan untukmu. Semoga Allah
         "keterangan"    : None,
         "kata_kunci"    : []
     },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Sapu Jagad",
+        "lafal"         : "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً، وَفِي الْآخِرَةِ حَسَنَةً، وَقِنَا عَذَابَ النَّارِ",
+        "transliterasi" : "Robbanaa aatinaa fid-dunyaa hasanah, wa fil aakhiroti hasanah, wa qinaa 'adzaaban-naar.",
+        "arti"          : "Ya Tuhan kami, berilah kami kebaikan di dunia, dan kebaikan di akhirat, dan peliharalah kami dari siksa neraka.",
+        "riwayat"       : "(Al-Baqarah [2]: 201).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Setiap Urusan Berakhir Baik",
+        "lafal"         : "اَللَّهمَّ أَحْسِنْ عَاقِبَتَنَا فِي الأُمُورِ كُلِّهَا، وَأَجِرْنَا مِنْ خِزْيِ الدُّنْيَا وَعَذَابِ الآخِرَةِ",
+        "transliterasi" : "Allaahumma ahsin 'aaqibatanaa fil umuuri kullihaa, wa ajirnaa min khizyid-dunyaa wa 'adzaabil aakhiroh.",
+        "arti"          : "Ya Allah, jadikanlah baik akhir setiap urusan kami, dan lindungi kami dari bencana dunia dan azab akhirat.",
+        "riwayat"       : "HR. Ahmad 4/181.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Bila Mendengar Kokok Ayam Atau Ringkikan Keledai",
+        "lafal"         : "",
+        "transliterasi" : "",
+        "arti"          : "",
+        "riwayat"       : "HR. Al-Bukhari dengan Fathul Bari 6/350, Muslim 4/2092.",
+        "keterangan"    : "Apabila kamu mendengar ayam jago berkokok, mintalah anugerah kepada Allah, sesungguhnya ia melihat malaikat. Tapi apabila engkau mendengar keledai meringkik, mintalah perlindungan kepada Allah dari gangguan setan, sesungguhnya ia melihat setan.",
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Bila Mendengar Anjing Menggonggong",
+        "lafal"         : "",
+        "transliterasi" : "",
+        "arti"          : "",
+        "riwayat"       : "HR. Abu Dawud 4/327, Ahmad 3/306. Menurut pendapat Al-Albani, hadits ini shahih, dalam Shahih Abi Dawud 3/961.",
+        "keterangan"    : "Apabila kamu mendengar anjing menggonggong dan mendengar keledai meringkik, mintalah perlindungan kepada Allah. Sesungguhnya mereka melihat apa yang tidak kamu lihat.",
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Kesabaran, Teguh Pendirian Dan Pertolongan Terhadap Orang Kafir",
+        "lafal"         : "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+        "transliterasi" : "Robbanaa afrigh 'alainaa shobron, wa tsabbit aqdaamanaa, wan-shurnaa 'alal qoumil kaafiriin.",
+        "arti"          : "Ya Rabb kami, limpahkanlah kesabaran atas diri kami, dan teguhkanlah pendirian kami, dan tolonglah kami terhadap orang-orang kafir.",
+        "riwayat"       : "(Al Baqarah [2]: 250).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Kesesatan Dan Memohon Rahmat",
+        "lafal"         : "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِنْ لَدُنْكَ رَحْمَةً إِنَّكَ أَنْتَ الْوَهَّابُ",
+        "transliterasi" : "Robbanaa laa tuzigh quluubanaa ba'da idz hadaitanaa, wa hab lanaa mil-ladunka rohmah, innaka antal wahhaab.",
+        "arti"          : "Ya Rabb kami, janganlah Engkau jadikan hati kami condong kepada kesesatan sesudah Engkau beri petunjuk kepada kami, dan karuniakanlah kepada kami rahmat dari sisi Engkau, karena sesungguhnya Engkau-lah Maha Pemberi (karunia).",
+        "riwayat"       : "(Ali Imran [3]: 8).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Mudah Melakukan Kebaikan, Meninggalkan Kemungkaran, Mencintai Orang Miskin Dan Berlindung Dari Fitnah",
+        "lafal"         : "اَللَّهُمَّ إِنِّى أَسْأَلُكَ فِعْلَ الْخَيْرَاتِ، وَتَرْكَ الْمُنْكَرَاتِ، وَحُبَّ الْمَسَاكِينِ، وَإِذَا أَرَدْتَ بِعِبَادِكَ فِتْنَةً، فَاقْبِضْنِى إِلَيْكَ غَيْرَ مَفْتُونٍ",
+        "transliterasi" : "Allaahumma innii as-aluka fi'lal khoiroot, wa tarkal munkaroot, wa hubbal masaakiin. Wa idzaa arod-ta bi'ibaadika fitnatan, faq-bidh-nii ilaika ghoiro maftuun.",
+        "arti"          : "Ya Allah, aku memohon kepada-Mu taufiq agar bisa mengamalkan semua kebaikan, meninggalkan semua kemungkaran dan bisa mencintai orang miskin. Jika Engkau menghendaki bagi hamba-hamba-Mu ujian (fitnah), maka wafatkanlah aku tanpa terkena fitnah itu.",
+        "riwayat"       : "HR. Ahmad 22109, Turmudzi 3541, dan dishahihkan al-Albani.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Mudah Melakukan Kebaikan, Meninggalkan Kemungkaran, Mencintai Orang Miskin, Memohon Ampun Dan Rahmat Dan Berlindung Dari Fitnah",
+        "lafal"         : "اَللَّهُمَّ إِنِّى أَسْأَلُكَ فِعْلَ الْخَيْرَاتِ، وَتَرْكَ الْمُنْكَرَاتِ، وَحُبَّ الْمَسَاكِينِ، وَأَنْ تَغْفِرَ لِى وَتَرْحَمَنِى، وَإِذَا أَرَدْتَ فِتْنَةَ قَوْمٍ فَتَوَفَّنِى غَيْرَ مَفْتُونٍ",
+        "transliterasi" : "Allaahumma innii as-aluka fi'lal khoiroot, wa tarkal munkaroot, wa hubbal masaakiin. Wa an tagh-firolii wa tarhamanii. Wa idzaa arod-ta fitnata qoumin, fatawaffanii ghoiro maftuun.",
+        "arti"          : "Ya Allah, aku memohon kepada-Mu agar mudah melakukan kebaikan, meninggalkan kemungkaran dan mencintai orang miskin. Ampunilah aku dan rahmatilah aku. Jika Engkau ingin menimpakan ujian (fitnah) pada suatu kaum, maka wafatkanlah aku dalam keadaan tidak tenggelam dalam ujian itu.",
+        "riwayat"       : "HR. Tirmidzi no. 3235 dan Ahmad 5: 243, dan dishahihkan al-Albani.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Memohon Yang Tidak Diketahui, Serta Memohon Ampun Dan Rahmat (Doa Nabi Nuh)",
+        "lafal"         : "رَبِّ إِنِّي أَعُوذُ بِكَ أَنْ أَسْأَلَكَ مَا لَيْسَ لِي بِهِ عِلْمٌ وَإِلَّا تَغْفِرْ لِي وَتَرْحَمْنِي أَكُنْ مِنَ الْخَاسِرِينَ",
+        "transliterasi" : "Robbi innii a'uudzu bika an as-alaka maa laisa lii bihi 'ilmun, wa illaa tagh-fir lii, wa tarhamnii, akun minal khoosiriin.",
+        "arti"          : "Ya Tuhanku, sesungguhnya aku berlindung kepada Engkau dari memohon kepada Engkau sesuatu yang aku tiada mengetahui (hakekat)nya. Dan sekiranya Engkau tidak memberi ampun kepadaku, dan (tidak) menaruh belas kasihan kepadaku, niscaya aku akan termasuk orang-orang yang merugi.",
+        "riwayat"       : "(Hud [11]: 47).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Agar Tidak Dihukum Dan Dibebani Yang Berat, Serta Memohon Maaf, Ampun, Rahmat Dan Pertolongan Terhadap Orang Kafir",
+        "lafal"         : "رَبَّنَا لَا تُؤَاخِذْنَا إِنْ نَسِينَا أَوْ أَخْطَأْنَا رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَا إِصْرًا كَمَا حَمَلْتَهُ عَلَى الَّذِينَ مِنْ قَبْلِنَا رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِ وَاعْفُ عَنَّا وَاغْفِرْ لَنَا وَارْحَمْنَا أَنْتَ مَوْلَانَا فَانْصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+        "transliterasi" : "Robbanaa laa tu-aakhidz-naa in nasiinaa au akh-tho'na, robbanaa wa laa tahmil 'alainaa ish-ron kamaa hamaltahu 'alalladziina min qoblinaa, robbanaa wa laa tuhammilnaa maa laa thooqota lanaa bih, wa'fu 'annaa, wagh-fir lanaa, warhamnaa, anta maulaanaa, fan-shurnaa 'alal qoumil kaafiriin.",
+        "arti"          : "Ya Tuhan kami, janganlah Engkau hukum kami jika kami lupa atau kami tersalah. Ya Tuhan kami, janganlah Engkau bebankan kepada kami beban yang berat sebagaimana Engkau bebankan kepada orang-orang sebelum kami. Ya Tuhan kami, janganlah Engkau pikulkan kepada kami apa yang tak sanggup kami memikulnya. Beri maaflah kami; ampunilah kami; dan rahmatilah kami. Engkaulah Penolong kami, maka tolonglah kami terhadap kaum yang kafir.",
+        "riwayat"       : "(Al Baqarah [2]: 286).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Keamanan Negeri Dan Berlindung Dari Syirik (Doa Nabi Ibrahim)",
+        "lafal"         : "رَبِّ اجْعَلْ هَـٰذَا الْبَلَدَ آمِنًا وَاجْنُبْنِي وَبَنِيَّ أَنْ نَعْبُدَ الْأَصْنَامَ",
+        "transliterasi" : "Robbij'al haadzal balada aaminaa, wajnubnii wa baniyya an na'budal ash-naam.",
+        "arti"          : "Ya Tuhanku, jadikanlah negeri ini (Mekah), negeri yang aman, dan jauhkanlah aku beserta anak cucuku daripada menyembah berhala-berhala.",
+        "riwayat"       : "(Ibrahim [14]: 35).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Kaum Muslimin Disatukan Hatinya, Diberi Petunjuk Dan Keselamatan, Dijauhkan Dari Perbuatan Keji, Diberkahi Diri Dan Keluarga, Diterima Taubat Dan Dijadikan Hamba Yang Bersyukur",
+        "lafal"         : "اَللَّهُمَّ أَلِّفْ بَيْنَ قُلُوبِنَا، وَأَصْلِحْ ذَاتَ بَيْنِنَا، وَاهْدِنَا سُبُلَ السَّلاَمِ، وَنَجِّنَا مِنَ الظُّلُمَاتِ إِلَى النُّورِ، وَجَنِّبْنَا الْفَوَاحِشَ مَا ظَهَرَ مِنْهَا وَمَا بَطَنَ، وَبَارِكْ لَنَا فِى أَسْمَاعِنَا، وَأَبْصَارِنَا، وَقُلُوبِنَا، وَأَزْوَاجِنَا، وَذُرِّيَّاتِنَا، وَتُبْ عَلَيْنَا، إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ، وَاجْعَلْنَا شَاكِرِينَ لِنِعْمَتِكَ، مُثْنِينَ بِهَا قَابِلِيهَا، وَأَتِمَّهَا عَلَيْنَا",
+        "transliterasi" : "Allaahumma allif baina quluubinaa, wa ashlih dzaata baininaa, wahdinaa subulas-salaam, wa najjinaa minazh-zhulumaati ilan-nuur, wa jannibnal fawaahisya maa zhoharo minhaa wa maa bathon, wa baarik lanaa fii asmaa'inaa, wa ab-shoorinaa, wa quluubinaa, wa azwaajinaa, wa dzurriyyaatinaa, wa tub 'alainaa, innaka antat-tawwaabur-rohiim, waj'alnaa syaakiriina lini'matik, muts-niina bihaa qoobiliihaa, wa atimmahaa 'alainaa.",
+        "arti"          : "Ya Allah, satukanlah hati kami. Perbaikilah keadaan kami. Tunjukilah kami jalan-jalan keselamatan (menuju surga). Selamatkanlah kami dari kegelapan menuju cahaya. Jauhkanlah kami dari perbuatan keji yang nampak maupun tersembunyi. Berkahilah pendengaran, penglihatan, hati, istri-istri dan keturunan kami. Terimalah taubat kami, sesungguhnya Engkau Maha Pengampun lagi Maha Penyayang. Jadikanlah kami hamba yang bersyukur atas nikmat-Mu, terus memuji-Mu dan menerima nikmat tersebut, dan sempurnakanlah nikmat tersebut pada kami.",
+        "riwayat"       : "HR. Abu Daud no. 969, dari ‘Abdullah bin Mas’ud radhiyallahu ‘anhu. Hadits ini juga dikeluarkan oleh Al-Baihaqi dalam Al-Qadha’ wa Al-Qadr dari hadits Abu Daud, asalnya dikeluarkan oleh Tirmidzi. Kesimpulannya, Al-Hafizh Abu Thahir mengatakan bahwa hadits ini shahih.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
 ]
