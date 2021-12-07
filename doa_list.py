@@ -2023,4 +2023,54 @@ Semoga Allah juga memberkahimu dan melimpahkan kebahagiaan untukmu. Semoga Allah
         "keterangan"    : None,
         "kata_kunci"    : []
     },
+    {
+        "id_doa"        : "",
+        "nama"          : "Bacaan Bila Kagum Terhadap Sesuatu 1",
+        "lafal"         : "سُبْحَانَ اللَّهِ",
+        "transliterasi" : "Subhaanallaah.",
+        "arti"          : "Maha Suci Allah.",
+        "riwayat"       : "HR. Al-Bukhari dengan Fathul Bari 1/210, 390 dan 414, Muslim 4/1857.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Bacaan Bila Kagum Terhadap Sesuatu 2",
+        "lafal"         : "اَللَّهُ أَكْبَرُ",
+        "transliterasi" : "Allaahu akbar.",
+        "arti"          : "Allah Maha Besar.",
+        "riwayat"       : "HR. Al-Bukhari dengan Fathul Bari 8/441, lihat pula Shahih At-Tirmidzi 2/103, 2/235, dan Musnad Ahmad 5/218.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Bacaan Bila Kagum Terhadap Sesuatu 3",
+        "lafal"         : "مَا شَاءَ اللَّهُ",
+        "transliterasi" : "Maa syaa-allaah.",
+        "arti"          : "Atas kehendak Allah semua ini terwujud.",
+        "riwayat"       : "(Al-Kahfi [18]: 39).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Bacaan Bila Perkara Dunia Membuat Takjub",
+        "lafal"         : "لَبَّيْكَ، إِنَّ الْعَيْشَ عَيْشُ الْآخِرَةِ",
+        "transliterasi" : "Labbaik, innal 'aisya 'aisyul aakhiroh.",
+        "arti"          : "Aku penuhi panggilanmu ya Allah, sungguh kehidupan yang hakiki adalah kehidupan akhirat.",
+        "riwayat"       : "HR. Bukhari 2834, Muslim 1805.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Bacaan Agar Tidak Terpedaya Kenikmatan Dan Kemewahan Dunia",
+        "lafal"         : "اَللَّهُمَّ لَا عَيْشَ إِلَّا عَيْشُ الْآخِرَةِ",
+        "transliterasi" : "Allaahumma laa 'aisya illaa 'aisyul aakhiroh.",
+        "arti"          : "Ya Allah, tidak ada kehidupan yang hakiki kecuali kehidupan akhirat.",
+        "riwayat"       : "HR. Al-Bukhari dan Muslim.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
 ]
