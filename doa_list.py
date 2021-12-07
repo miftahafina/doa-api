@@ -1293,4 +1293,64 @@ Semoga Allah juga memberkahimu dan melimpahkan kebahagiaan untukmu. Semoga Allah
         "keterangan"    : None,
         "kata_kunci"    : []
     },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ilmu 1",
+        "lafal"         : "رَبِّ زِدْنِي عِلْمًا",
+        "transliterasi" : "Robbi zidnii 'ilman.",
+        "arti"          : "Wahai Rabb-ku, tambahkanlah ilmu kepadaku.",
+        "riwayat"       : "(Thaha [20]: 114).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ilmu 2",
+        "lafal"         : "اَللَّهُمَّ انْفَعْنِيْ بِمَا عَلَّمْتَنِيْ، وَعَلِّمْنِيْ مَا يَنْفَعُنِيْ، وَزِدْنِيْ عِلْماً",
+        "transliterasi" : "Allaahumman-fa'nii bimaa 'allamtanii, wa 'allimnii maa yanfa'unii, wa zidnii 'ilman.",
+        "arti"          : "Ya Allah, berilah aku manfaat dengan apa yang telah Engkau ajarkan kepadaku, ajarilah aku apa yang bermanfaat bagiku, dan tambahkanlah ilmu kepadaku.",
+        "riwayat"       : "HR. Ibnu Majah no. 251 dan 3833. Shahih. Tahqiq al-Albani.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ilmu 3",
+        "lafal"         : "اَللَّهُمَّ انْفَعْنِيْ بِمَا عَلَّمْتَنِيْ، وَعَلِّمْنِيْ مَا يَنْفَعُنِيْ، وَارْزُقْنِيْ عِلْماً تَنْفَعُنِيْ بِهِ",
+        "transliterasi" : "Allaahumman-fa'nii bimaa 'allamtanii, wa 'allimnii maa yanfa'unii, war-zuqnii 'ilman tanfa'unii bih.",
+        "arti"          : "Ya Allah, berilah aku manfaat dengan apa yang telah Engkau ajarkan kepadaku, ajarilah aku apa yang bermanfaat bagiku, dan rezekikanlah aku ilmu yang dengannya Engkau memberi manfaat kepadaku.",
+        "riwayat"       : "HR. al-Hakim. Shahih. Lihat ash-Shahihah, al-Albani no. 1351.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ilmu yang Bermanfaat dan Berlindung dari Ilmu yang Tidak Bermanfaat",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ عِلْمًا نَافِعًا، وَأَعُوْذُ بِكَ مِنْ عِلْمٍ لَا يَنْفَعُ",
+        "transliterasi" : "Allaahumma innii as-aluka 'ilman naafi'an, wa a'uudzu bika min 'ilmin laa yanfa'.",
+        "arti"          : "Ya Allah, aku memohon kepada-Mu ilmu yang bermanfaat, dan berlindung kepada-Mu dari ilmu yang tidak bermanfaat.",
+        "riwayat"       : "HR. Ibnu Hibban. Hadis hasan sahih. Lihat at-Ta’liqaat al-Hisaan, al-Albani No 82.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Paham Tentang Agama",
+        "lafal"         : "اَللَّهُمَّ فَقِّهْنِيْ فِى الدِّيْنِ",
+        "transliterasi" : "Allaahumma faqqihnii fid-diin.",
+        "arti"          : "Ya Allah, pahamkanlah aku tentang agama (Islam).",
+        "riwayat"       : "HR. Al-Bukhari no. 143, Fathul Barri I/244, dan Muslim no. 2477. Hadits Shahih.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "",
+        "lafal"         : "",
+        "transliterasi" : "",
+        "arti"          : "",
+        "riwayat"       : "",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
 ]
