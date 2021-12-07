@@ -1633,4 +1633,274 @@ Semoga Allah juga memberkahimu dan melimpahkan kebahagiaan untukmu. Semoga Allah
         "keterangan"    : None,
         "kata_kunci"    : []
     },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Menolak Firasat Buruk/Sial",
+        "lafal"         : "اَللَّهُمَّ لاَ طَيْرَ إِلاَّ طَيْرُكَ، وَلاَ خَيْرَ إِلاَّ خَيْرُكَ، وَلاَ إِلَـٰهَ غَيْرُكَ",
+        "transliterasi" : "Allaahumma laa thoiro illaa thoiruk, wa laa khoiro illaa khoiruk, wa laa ilaaha ghoiruk.",
+        "arti"          : "Ya Allah, tidak ada kesialan kecuali kesialan yang Engkau tentukan, dan tidak ada kebaikan kecuali kebaikanMu, serta tidak ada sesembahan yang berhak disembah kecuali Engkau.",
+        "riwayat"       : "HR. Ahmad 2/220, Ibnus Sunni no. 292, dan lihat Al-Ahadits Ash-Shahihah, no. 1065.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Hilangnya Nikmat, Berubahnya Kesehatan/Keselamatan, Siksa Dan Murka Allah",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ زَوَالِ نِعْمَتِكَ، وَتَحَوُّلِ عَافِيَتِكَ، وَفُجَاءَةِ نِقْمَتِكَ، وَجَمِيْعِ سَخَطِكَ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min zawaali ni'matik, wa tahawwuli 'aafiyatik, wa fujaa-ati niqmatik, wa jamii'i sakhathik.",
+        "arti"          : "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari hilangnya nikmat yang telah Engkau berikan, dari berubahnya kesehatan yang telah Engkau anugerahkan, dari siksa-Mu yang datang secara tiba-tiba, dan dari segala kemurkaan-Mu.",
+        "riwayat"       : "HR. Muslim no. 2739.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung dari Beratnya Cobaan, Kesengsaraan yang Hebat, Keburukan Takdir dan Kegembiraan Musuh",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنْ جَهْدِ البَلاَءِ، وَدَرَكِ الشَقَاءِ، وَسُوءِ القَضَاءِ، وَشَمَاتَةِ الأَعْدَاءِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min jahdil balaa', wa darokisy-syaqoo', wa suu-il qodhoo', wa syamaatatil a'daa'.",
+        "arti"          : "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari beratnya cobaan, kesengsaraan yang hebat, keburukan takdir dan kegembiraan musuh atas musibah yang menimpaku.",
+        "riwayat"       : "HR. Al-Bukhari no. 6347 dan Muslim no. 2707. Muttafaqun ‘alaih.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Bila Takut Mengenai Sesuatu Dengan Matanya ('Ain)",
+        "lafal"         : "",
+        "transliterasi" : "",
+        "arti"          : "",
+        "riwayat"       : "HR. Ahmad 4/447, Ibnu Majah dan Malik. Dinyatakan shahih oleh Al-Albani dalam Shahihul Jami' 1/212, dan lihat Zadul Ma'ad 4/170, tahqiq Al-Arnauth.",
+        "keterangan"    : "Apabila seseorang di antara kamu melihat dari saudaranya, diri atau hartanya yang menakjubkan, maka hendaklah mendoakan berkah kepadanya. Sesungguhnya 'ain (kena mata) itu adalah benar.",
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Bila Malam Tiba",
+        "lafal"         : "",
+        "transliterasi" : "",
+        "arti"          : "",
+        "riwayat"       : "HR. Al-Bukhari dengan Fathul Bari 10/88, Muslim 3/1595.",
+        "keterangan"    : "Apabila kegelapan malam telah tiba -atau kamu masuk di waktu malam-, maka tahanlah anak-anakmu, sesungguhnya setan pada saat itu bertebaran. Apabila malam telah terlewati sesaat, maka lepaskan mereka, tapi tutuplah pintu dan sebut nama Allah (baca: Bismillaah). Sesungguhnya setan tidak membuka pintu yang tertutup, ikatlah gerabahmu (tempat air dari kulit) dan sebutlah nama Allah. Tutuplah tempat-tempatmu dan sebutlah nama Allah, sekalipun dengan melintangkan sesuatu di atasnya, dan padamkan lampu-lampumu.",
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Sifat Lemah, Malas, Pengecut Dan Pikun",
+        "lafal"         : "اَللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنَ الْعَجْزِ، وَالْكَسَلِ، وَالْجُبْنِ، وَالْهَرَمِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika minal 'ajzi, wal kasali, wal jubni, wal haromi.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari kelemahan, rasa malas, pengecut/rasa takut dan pikun.",
+        "riwayat"       : "HR. Muslim no. 2706.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Sifat Malas, Pengecut/Lemahnya Hati, Pikun/Usia Tua Dan Kikir",
+        "lafal"         : "اَللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنَ الْكَسَلِ، وَأَعُوذُ بِكَ مِنَ الْجُبْنِ، وَأَعُوذُ بِكَ مِنَ الْهَرَمِ، وَأَعُوذُ بِكَ مِنَ الْبُخْلِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika minal kasali, wa a'uudzu bika minal jubni, wa a'uudzu bika minal haromi, wa a'uudzu bika minal bukhli.",
+        "arti"          : "Ya Allah, aku meminta perlindungan pada-Mu dari rasa malas, aku meminta perlindungan pada-Mu dari lemahnya hati, aku meminta perlindungan pada-Mu dari usia tua (yang sulit untuk beramal) dan aku meminta perlindungan pada-Mu dari sifat kikir (pelit).",
+        "riwayat"       : "HR. Bukhari. Bukhari: 83-Kitab Ad Da'awaat, 41-Bab Meminta Perlindungan dari Umur yang Sulit Untuk Beramal.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Sifat Lemah, Malas, Pengecut, Pikun, Kikir, Siksa Kubur Dan Fitnah Kehidupan Dan Kematian",
+        "lafal"         : "اَللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنَ الْعَجْزِ، وَالْكَسَلِ، وَالْجُبْنِ، وَالْهَرَمِ، وَالْبُخْلِ، وَأَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika minal 'ajzi, wal kasali, wal jubni, wal haromi, wal bukhli, wa a'uudzu bika min 'adzaabil qobri, wa min fitnatil mahyaa wal mamaati.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari kelemahan, rasa malas, pengecut/rasa takut, pikun/kejelekan di waktu tua, dan sifat kikir. Dan aku juga berlindung kepada-Mu dari siksa kubur serta fitnah/bencana kehidupan dan kematian.",
+        "riwayat"       : "HR. Bukhari no. 6367 dan Muslim no. 2706.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Sifat Malas, Pikun, Dosa, Hutang, Fitnah Dan Azab Kubur, Fitnah Dan Azab Neraka, Fitnah Kekayaan Dan Kemiskinan Dan Fitnah Dajjal",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْكَسَلِ وَالْهَرَمِ، وَالْمَأْثَمِ وَالْمَغْرَمِ، وَمِنْ فِتْنَةِ الْقَبْرِ وَعَذَابِ الْقَبْرِ، وَمِنْ فِتْنَةِ النَّارِ وَعَذَابِ النَّارِ، وَمِنْ شَرِّ فِتْنَةِ الْغِنَى، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْفَقْرِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الْمَسِيْحِ الدَّجَّالِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika minal kasali wal haromi, wal ma'tsami wal maghromi, wa min fitnatil qobri wa 'adzaabil qobri, wa min fitnatin-naari wa 'adzaabin-naari, wa min syarri fitnatil ghinaa, wa a'uudzu bika min fitnatil faqri, wa a'uudzu bika min fitnatil masiihid-dajjaal.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari kemalasan dan pikun/usia jompo, perbuatan dosa dan hutang, fitnah kubur dan azab kubur, fitnah neraka dan azab neraka, keburukan fitnah kekayaan, aku berlindung kepada-Mu dari fitnah kemiskinan dan aku berlindung kepada-Mu dari fitnah Al-Masih Dajjal.",
+        "riwayat"       : "HR. Bukhari 6368.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Sifat Pengecut, Pikun, Fitnah Dunia Dan Azab Kubur",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْجُبْنِ، وَأَعُوْذُ بِكَ أَنْ أُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ، وَأَعُوْذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا، وَأَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika minal jubni, wa a'uudzu bika an urodda ilaa ar-dzalil 'umuri, wa a'uudzu bika min fitnatid-dunyaa, wa a'uudzu bika min 'adzaabil qobr.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari sifat pengecut, aku berlindung kepada-Mu kepada serendah-rendahnya usia (pikun), aku berlindung kepada-Mu dari fitnah dunia, dan aku berlindung berlindung kepada-Mu dari adzab kubur.",
+        "riwayat"       : "HR. Bukhari 2822.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Keburukan Amal",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ شَرِّ مَا عَمِلْتُ، وَشَرِّ مَا لَمْ أَعْمَلْ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min syarri maa 'amiltu, wa syarri maa lam a'mal.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari keburukan yang telah aku perbuat dan keburukan yang belum aku perbuat.",
+        "riwayat"       : "HR. Muslim 2716.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Musibah Tidak Menimpa Agama dan Agar Dunia Bukan Sebagai Tujuan",
+        "lafal"         : "وَلَا تَجْعَلْ مُصِيْبَتَنَا فِي دِيْنِنَا، وَلَا تَجْعَلِ الدُّنْيَا أَكْبَرَ هَمِّنَا، وَلَا مَبْلَغَ عِلْمِنَا",
+        "transliterasi" : "Wa laa taj'al mushiibatanaa fii diininaa, wa laa taj'alid-dunyaa akbaro hamminaa, wa laa mablagho 'ilminaa.",
+        "arti"          : "(Ya Allah) Janganlah Engkau jadikan musibah pada kami menimpa agama kami. Janganlah Engkau jadikan dunia (harta dan kemewahan) sebagai cita-cita terbesar kami, jangan juga sebagai tujuan utama dari ilmu kami.",
+        "riwayat"       : "HR. At-Tirmidzi V/528 no.3502, An-Nasa'I dalam As-Sunan Al-Kubro VI/106, Al-Hakim I/528 dan Ibnu As-Sunny dalam Amalul Yaum wa Al-Lailah no.445. Derajat hadits tersebut hasan (baik), sebagaimana dinyatakan oleh syaikh Al-Albani di dalam Shohih Sunan At-Tirmidzi III/168 no.2783 dan Shohih Al-Jami’ I/400.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Keburukan Anggota Badan 1",
+        "lafal"         : "اَللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنْ شَرِّ سَمْعِى، وَمِنْ شَرِّ بَصَرِى، وَمِنْ شَرِّ لِسَانِى، وَمِنْ شَرِّ قَلْبِى، وَمِنْ شَرِّ مَنِيِّى",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min syarri sam'ii, wa min syarri bashorii, wa min syarri lisaanii, wa min syarri qolbii, wa min syarri maniyyii.",
+        "arti"          : "Allaahumma innii a'uudzu bika min syarri sam'ii, wa min syarri bashorii, wa min syarri lisaanii, wa min syarri qolbii, wa min syarri maniyyii.",
+        "riwayat"       : "HR. An-Nasa’i no. 5446, Abu Daud no. 1551, Tirmidzi no. 3492. Al-Hafizh Abu Thahir mengatakan bahwa sanad hadits ini hasan.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Keburukan Anggota Badan 2",
+        "lafal"         : "اَللَّهُمَّ عَافِنِي مِنْ شَرِّ سَمْعِي، وَبَصَرِي، وَلِسَانِي، وَقَلْبِي، وَمِنْ شَرِّ مَنِيِّي",
+        "transliterasi" : "اَللَّهُمَّ عَافِنِي مِنْ شَرِّ سَمْعِي، وَبَصَرِي، وَلِسَانِي، وَقَلْبِي، وَمِنْ شَرِّ مَنِيِّي",
+        "arti"          : "Ya Allah, berilah aku keselamatan dari buruknya pendengaranku, penglihatanku, lidahku, hatiku, dan dari buruknya air maniku.",
+        "riwayat"       : "HR. An-Nasai, Al-Bukhari dalam al-Adabul Mufrad.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Kesusahan, Kesedihan, Lemah, Malas, Kikir, Penakut, Lilitan Hutang Dan Penindasan Orang",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika minal hammi wal hazani, wal 'ajzi wal kasali, wal bukhli wal jubni, wa dhola'id-daini wa gholabatir-rijaal.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari kesusahan dan kesedihan, lemah dan malas, kikir dan penakut, lilitan hutang dan penindasan orang.",
+        "riwayat"       : "HR. Al-Bukhari 7/158. Rasulullah Shallallahu'alaihi wasallam senantiasa membaca doa ini, lihat kitab Fathul Baari 11/173.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Kesusahan, Kesedihan, Lemah, Malas, Penakut, Kikir, Lilitan Hutang Dan Penguasaan Orang",
+        "lafal"         : "اَللَّهُمَّ إِنِّى أَعُوذُ بِكَ مِنْ فِتْنَةِ النَّارِ وَعَذَابِ النَّارِ، وَمِنْ شَرِّ الْغِنَى وَالْفَقْرِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min fitnatin-naar wa 'adzaabin-naar, wa min syarril ghinaa wal faqr.",
+        "arti"          : "Ya Allah, aku berlindung kepadaMu dari fitnah neraka dan adzab neraka, dan dari keburukan kekayaan dan kefakiran.",
+        "riwayat"       : "HR. Abu Daud no. 1543. Syaikh Al Albani mengatakan bahwa hadits ini shahih.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Ketika Dihadang Atau Diancam Orang Jahat",
+        "lafal"         : "اَللَّهُمَّ اكْفِنِيْهِمْ بِمَا شِئْتَ",
+        "transliterasi" : "Allaahummak-finiihim bima syi'ta.",
+        "arti"          : "Ya Allah, cukupkanlah aku dari kejahatan mereka dengan cara yang Engkau kehendaki.",
+        "riwayat"       : "HR. Muslim 3005.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Setan, Binatang Berbisa dan 'Ain (Pandangan Mata Jahat)",
+        "lafal"         : "أَعُوْذُ بِكَلِمَاتِ اللَّهِ التَّامَّةِ، مِنْ كُلِّ شَيْطَانٍ وَهَامَّةٍ، وَمِنْ كُلِّ عَيْنٍ لَامَّةٍ",
+        "transliterasi" : "A'uudzu bikalimaatillaahit-taammah, min kulli syaithoonin wa haammah, wa min kulli 'ainin laammah.",
+        "arti"          : "Aku berlindung dengan kalimat-kalimat Allah yang sempurna, dari segala setan dan binatang berbisa, dan dari pandangan mata jahat.",
+        "riwayat"       : "HR. Bukhari no. 3371.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Keburukan Tetangga, Istri, Anak, Harta Dan Teman Dekat",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنْ جَارِ السُّوْءِ، وَمِنْ زَوْجٍ تُشَيِّبُنِيْ قَبْلَ المَشِيْبِ، وَمِنْ وَلَدٍ يَكُوْنُ عَلَيَّ رَبًّا، وَمِنْ مَالٍ يَكُوْنُ عَلَيَّ عَذَابًا، وَمِنْ خَلِيْلٍ مَاكِرٍ عَيْنُهُ تَرَانِيْ، وَقَلْبُهُ يَرْعَانِيْ، إِنْ رَأَى حَسَنَةً دَفَنَهَا، وَإِذَا رَأَى سَيِّئَةً أَذَاعَهَا",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min jaaris-suu', wa min zaujin tusyayyibunii qoblal masyiib, wa min waladin yakuunu 'alayya robban, wa min maalin yakuunu 'alayya adzaaban, wa min kholiilin maakirin, 'ainuhu taroonii, wa qolbuhu yar'aanii, in ro'aa hasanatan dafanahaa, wa idzaa ro'aa sayyi'atan adzaa'ahaa.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari tetangga yang buruk, dan dari istri yang membuatku beruban sebelum waktunya, dan dari anak yang menguasaiku, dan dari harta yang menjadi azab atasku, dan dari teman dekat pembuat makar, matanya melihatku sedang hatinya mengawasiku, jika ia melihat kebaikan pada diriku maka ia menyembunyikannya, dan jika ia melihat keburukan maka ia menyebarkannya.",
+        "riwayat"       : "HR. Ath-Thabrani dari Abu Hurairah radhiyallahu'anhu, Ash-Shahihah: 3137.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Hari, Malam, Waktu, Teman dan Tetangga Yang Buruk",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ يَوْمِ السُّوءِ، وَمِنْ لَيْلَةِ السُّوءِ، وَمِنْ سَاعَةِ السُّوءِ، وَمِنْ صَاحِبِ السُّوءِ، وَمِنْ جَارِ السُّوءِ فِي دَارِ الْمُقَامَةِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min yaumis-suu', wa min lailatis-suu', wa min saa'atis-suu', wa min shoohibis-suu', wa min jaaris-suu-i fii daaril muqoomah.",
+        "arti"          : "Allaahumma innii a'uudzu bika min yaumis-suu', wa min lailatis-suu', wa min saa'atis-suu', wa min shoohibis-suu', wa min jaaris-suu-i fii daaril muqoomah.",
+        "riwayat"       : "HR. Ath-Thabrani 14227. Silsilah al-Ahaadiits ash-Shahiihah no. 1443.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Tetangga yang Buruk 1",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ جَارِ السُّوءِ فِي دَارِ الْمُقَامَةِ، فَإِنَّ جَارَ الْبَادِيَةِ يَتَحَوَّلُ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min jaaris-suu-i fii daaril-muqoomah, fa-inna jaarol baadiyati yatahawwal.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari tetangga yang buruk di tempat tinggal menetap, karena tetangga yang tidak menetap akan berpindah.",
+        "riwayat"       : "HR. Al Hakim I/532. Lihat kitab Shahih Al Jami' I/408.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Tetangga yang Buruk 2",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ جَارِ السُّوءِ فِي دَارِ الْمُقَامِ، فَإِنَّ جَارَ الدُّنْيَا يَتَحَوَّلُ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika min jaaris-suu-i fii daaril-muqoom, fa-inna jaarod-dunyaa yatahawwal.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari tetangga yang buruk di akhirat, karena tetangga di dunia akan senantiasa berubah-ubah.",
+        "riwayat"       : "HR. An Nasa'i dalam 50-Kitab Al Isti'adzah, 42-Bab Al Isti'adzah min Jaaris Suu'. Hasan, Lihat Ash Shahihah 1443.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Lapar Dan Khianat",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْجُوعِ، فَإِنَّهُ بِئْسَ الضَّجِيعُ، وَأَعُوذُ بِكَ مِنَ الْخِيَانَةِ، فَإِنَّهَا بِئْسَتِ الْبِطَانَةُ",
+        "transliterasi" : "Allaahumma innii a-uudzu bika minal juu'i, fa-innahu bi'sadh-dhojii'u, wa a-uudzu bika minal khiyaanati, fa-innahaa bi'satil bithoonah.",
+        "arti"          : "Ya Allah, sesungguhnya aku berlindung kepada-Mu dari lapar, karena ia adalah seburuk-buruk teman yang menyertai. Dan aku berlindung kepada-Mu dari khianat, karena ia adalah teman karib yang paling buruk.",
+        "riwayat"       : "HR. Abu Daud, An-Nasa’i, Ibnu Majah.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Bila Khawatir Hal Buruk Menimpa",
+        "lafal"         : "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ، عَلَى اللَّهِ تَوَكَّلْنَا",
+        "transliterasi" : "Hasbunallaahu wa ni'mal wakiil, 'alallaahi tawakkalnaa.",
+        "arti"          : "Cukuplah Allah menjadi Penolong kami, dan Allah adalah sebaik-baik Pelindung. Hanya kepada Allah kami bertawakal.",
+        "riwayat"       : "HR. At-Turmudzi.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung dari Kefakiran, Kekufuran, Kefasikan, Kedurhakaan, Kemunafikan, Sum'ah Dan Riya'",
+        "lafal"         : "اَللَّهُمَّ إِنِّى أَعُوْذُ بِكَ مِنَ الْفَقْرِ، وَالْكُفْرِ، وَالْفُسُوْقِ، وَالشِّقَاقِ، وَالنِّفَاقِ، وَالسُّمْعَةِ، وَالرِّيَاءِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika minal faqri, wal kufri, wal fusuuqi, wasy-syiqooqi, wan-nifaaqi, was-sum'ati, war-riyaa-i.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari kefakiran, kekufuran, kefasikan, kedurhakaan, kemunafikan, sum'ah dan riya'.",
+        "riwayat"       : "HR. al-Hakim (1944) dan dishahihkan al-Albani.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Kekufuran, Kefakiran Dan Azab Kubur",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، اَللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لَا إِلَـٰهَ إِلَّا أَنْتَ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika minal kufri wal faqri, allaahumma innii a'uudzu bika min 'adzaabil qobri, laa ilaaha illaa anta.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari kekufuran dan kefakiran. Ya Allah, aku berlindung kepada-Mu dari adzab kubur. Tidak ada sesembahan yang berhak disembah kecuali Engkau.",
+        "riwayat"       : "HR. Abu Daud 5092, Nasai 5482 dan dihasankan al-Albani.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Berlindung Dari Penyakit Kulit/Belang, Gila, Kusta Dan Penyakit Berbahaya Lainnya",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أَعُوْذُ بِكَ مِنَ الْبَرَصِ، وَالْجُنُوْنِ، وَالْجُذَامِ، وَمِنْ سَيِّئِ الْأَسْقَامِ",
+        "transliterasi" : "Allaahumma innii a'uudzu bika minal baroshi, wal junuuni, wal judzaami, wa min sayyi-il asqoom.",
+        "arti"          : "Ya Allah, aku berlindung kepada-Mu dari penyakit kulit/belang, gila, kusta, dan dari segala penyakit yang buruk/mengerikan lainnya.",
+        "riwayat"       : "HR. Abu Dawud 1554.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
 ]
