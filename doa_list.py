@@ -1345,11 +1345,291 @@ Semoga Allah juga memberkahimu dan melimpahkan kebahagiaan untukmu. Semoga Allah
     },
     {
         "id_doa"        : "",
-        "nama"          : "",
-        "lafal"         : "",
-        "transliterasi" : "",
-        "arti"          : "",
-        "riwayat"       : "",
+        "nama"          : "Doa Agar Diri Dan Keluarga Tetap Mendirikan Shalat (Doa Nabi Ibrahim)",
+        "lafal"         : "رَبِّ اجْعَلْنِي مُقِيمَ الصَّلاَةِ وَمِنْ ذُرِّيَّتِي رَبَّنَا وَتَقَبَّلْ دُعَاءِ",
+        "transliterasi" : "Robbij'alnii muqiimash-sholaati wa min dzurriyyatii, robbanaa wa taqobbal du'aa'.",
+        "arti"          : "Ya Rabb-ku, jadikanlah aku dan anak cucuku orang-orang yang tetap mendirikan shalat, ya Tuhan kami, perkenankanlah doaku.",
+        "riwayat"       : "(Ibrahim [14]: 40).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Menjadi Hamba Yang Bersyukur Dan Agar Bisa Beramal Shaleh (Doa Nabi Sulaiman)",
+        "lafal"         : "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ الَّتِي أَنْعَمْتَ عَلَيَّ وَعَلَى وَالِدَيَّ وَأَنْ أَعْمَلَ صَالِحًا تَرْضَاهُ وَأَدْخِلْنِي بِرَحْمَتِكَ فِي عِبَادِكَ الصَّالِحِينَ",
+        "transliterasi" : "Robbi auzi'nii an asykuro ni'matakallatii an'amta 'alayya wa 'alaa waalidayya wa an a'mala shoolihan tardhoohu, wa ad-khilnii birohmatika fii 'ibaadikash-shoolihiin.",
+        "arti"          : "Ya Rabbku, tunjukilah aku untuk mensyukuri nikmat-Mu yang telah Engkau berikan kepadaku dan kepada ibu bapakku, dan supaya aku dapat berbuat amal shaleh yang Engkau ridhai. Masukkanlah aku dengan rahmat-Mu ke dalam golongan hamba-hamba-Mu yang shaleh.",
+        "riwayat"       : "(An-Naml [27]: 19).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Petunjuk, Ketakwaan, 'Afaf (Terjaga) Dan Ghina (Merasa Cukup)",
+        "lafal"         : "اَللَّهُمَّ إنِّي أَسْأَلُكَ الهُدَى، وَالتُّقَى، وَالعَفَافَ، وَالغِنَى",
+        "transliterasi" : "Allaahumma innii as-alukal hudaa, wat-tuqoo, wal 'afaaf, wal ghinaa.",
+        "arti"          : "Ya Allah, sesungguhnya aku mohon kepada-Mu petunjuk, ketakwaan, diberikan sifat 'afaf dan ghina.",
+        "riwayat"       : "HR. Muslim no. 2721.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Ketakwaan Dan Jiwa Yang Suci",
+        "lafal"         : "اَللَّهُمَّ آتِ نَفْسِيْ تَقْوَاهَا، وَزَكِّهَا، أَنْتَ خَيْرُ مَنْ زَكَّاهَا، أَنْتَ وَلِيُّهَا وَمَوْلَاهَا",
+        "transliterasi" : "Allaahumma aati nafsii taqwaahaa wazakkihaa, anta khairu man zakkaahaa, anta waliyyuhaa wa maulaahaa.",
+        "arti"          : "Ya Allah, anugerahkanlah kepadaku ketakwaaan jiwa dan sucikanlah ia, karena Engkaulah sebaik-baik Rabb yang mensucikannya, Engkau pelindung dan Pemeliharanya.",
+        "riwayat"       : "HR. Muslim.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Dilapangkan Hati Dan Dimudahkan Urusan Dan Ucapan (Doa Nabi Musa)",
+        "lafal"         : "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِنْ لِسَانِي يَفْقَهُوا قَوْلِي",
+        "transliterasi" : "Robbisy-roh lii shodrii, wa yassir lii amrii, wah lul 'uqdatan min lisaanii, yafqohuu qoulii.",
+        "arti"          : "Ya Rabbku, lapangkanlah untukku dadaku, mudahkanlah untukku urusanku, dan lepaskanlah kekakuan dari lidahku, supaya mereka mengerti perkataanku.",
+        "riwayat"       : "(Thaha [20]: 25-28).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memperbaiki Urusan Agama Dan Dunia",
+        "lafal"         : "اَللَّهُمَّ أَصْلِحْ لِى دِينِىَ الَّذِى هُوَ عِصْمَةُ أَمْرِى، وَأَصْلِحْ لِى دُنْيَاىَ الَّتِى فِيهَا مَعَاشِى، وَأَصْلِحْ لِى آخِرَتِى الَّتِى فِيهَا مَعَادِى، وَاجْعَلِ الْحَيَاةَ زِيَادَةً لِى فِى كُلِّ خَيْرٍ، وَاجْعَلِ الْمَوْتَ رَاحَةً لِى مِنْ كُلِّ شَرٍّ",
+        "transliterasi" : "Allaahumma ashlih lii diiniyal-ladzii huwa 'ishmatu amrii, wa ashlih lii dunyaayallatii fiihaa ma'aasyii, wa ashlih lii aakhirotillatii fiihaa ma'aadii, waj'alil hayaata ziyaadatan lii fii kulli khoirin, waj'alil mauta roohatan lii min kulli syarrin.",
+        "arti"          : "Ya Allah, perbaikilah agamaku sebagai benteng urusanku, perbaikilah duniaku yang menjadi tempat kehidupanku, perbaikilah akhiratku yang menjadi tempat kembaliku. Dan jadikanlah kehidupan ini mempunyai nilai tambah bagiku dalam segala kebaikan, dan jadikanlah kematianku sebagai kebebasanku dari segala kejahatan.",
+        "riwayat"       : "HR. Muslim no. 2720.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Melihat Hilal (Bulan Tanggal Satu)",
+        "lafal"         : "اَللَّهُ أَكْبَرُ، اَللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالأَمْنِ وَالإِيْمَانِ، وَالسَّلَامَةِ وَالإِسْلَامِ، وَالتَّوْفِيقِ لِمَا تُحِبُّ وَتَرْضَى، رَبُّنَا وَرَبُّكَ اللَّهُ",
+        "transliterasi" : "Allaahu akbar, allaahumma ahillahu 'alainaa bil amni wal iimaan, was-salaamati wal islaam, wat-taufiiqi limaa tuhibbu wa tardhoo, robbunaa wa robbukallaah.",
+        "arti"          : "Allah Maha Besar, Ya Allah, munculkanlah hilal itu kepada kami dengan membawa keamanan dan keimanan, keselamatan dan islam, dan membawa taufiq kepada apa yang Engkau cintai dan Engkau ridhai. Rabb kami dan Rabb kamu (wahai bulan) adalah Allah.",
+        "riwayat"       : "HR. Ahmad dalam musnadnya 888, Ad-Darimi dalam sunannya 1729, At-Thabrani dalam Mu'jam al-Kabir 13330. Hadits ini digolongkan hadits shahih li ghairi oleh Al-Albani dalam As-Shahihah no. 1816, dan dinilai shahih oleh Syu'aib Al-Arnauth dalam Ta'liq Musnad Ahmad 3/171.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Melihat Permulaan Buah",
+        "lafal"         : "اَللَّهُمَّ بَارِكْ لَنَا فِيْ ثَمَرِنَا، وَبَارِكْ لَنَا فِيْ مَدِيْنَتِنَا، وَبَارِكْ لَنَا فِيْ صَاعِنَا، وَبَارِكْ لَنَا فِيْ مُدِّنَا",
+        "transliterasi" : "Allaahumma baarik lanaa fii tsamarinaa, wa baarik lanaa fii madiinatinaa, wa baarik lanaa fii shoo'inaa, wa baarik lanaa fii muddinaa.",
+        "arti"          : "Ya Allah, berilah berkah buah-buahan kami, berilah berkah kota kami, berilah berkah takaran kami (sehingga di antara kami tidak sering mengurangi timbangan) dan berilah berkah mud kami.",
+        "riwayat"       : "HR. Muslim 2/1000.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Hisab yang Mudah",
+        "lafal"         : "اَللَّهُمَّ حَاسِبْنِى حِسَابًا يَسِيرًا",
+        "transliterasi" : "Allaahumma haasibnii hisaaban yasiiron.",
+        "arti"          : "Ya Allah, hisablah aku dengan hisab yang mudah.",
+        "riwayat"       : "HR. Ahmad 6/48.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Ucapan Terjaga Saat Marah Maupun Ridha",
+        "lafal"         : "اَللَّهُمَّ إِنِّى أَسْأَلُكَ كَلِمَةَ الْحَقِّ فِي الْغَضَبِ وَالرِّضَى",
+        "transliterasi" : "Allaahumma innii as-aluka kalimatal haqqi fil ghodhobi war-ridhoo.",
+        "arti"          : "Ya Allah, aku memohon kepada-Mu perkataan yang benar pada saat marah dan ridha.",
+        "riwayat"       : "HR. Ahmad IV/264.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Melihat Wajah Allah",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ لَذَّةَ النَّظَرِ إِلَى وَجْهِكَ، وَالشَّوْقَ إِلَى لِقَائِكَ فِي غَيْرِ ضَرَّاءَ مُضِرَّةٍ وَلَا فِتْنَةٍ مُضِلَّةٍ",
+        "transliterasi" : "Allaahumma innii as-aluka ladz-dzatan-nazhori ilaa wajhika, wasy-syauqo ilaa liqoo-ika fii ghoiri dhorroo-a mudhirrotin wa laa fitnatin mudhillah.",
+        "arti"          : "Ya Allah, Aku mohon kepada-Mu kenikmatan memandang wajah-Mu (di Surga), rindu bertemu dengan-Mu tanpa penderitaan yang membahayakan dan fitnah yang menyesatkan.",
+        "riwayat"       : "HR. Nasai 1305 dan dishahihkan al-Albani.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Mencintai Dan Dicintai Allah 1",
+        "lafal"         : "اَللَّهُمَّ إِنِّى أَسْأَلُكَ حُبَّكَ، وَحُبَّ مَنْ يُحِبُّكَ، وَحُبَّ عَمَلٍ يُقَرِّبُ إِلَى حُبِّكَ",
+        "transliterasi" : "Allaahumma innii as-aluka hubbaka, wa hubba man yuhibbuka, wa hubba 'amalin yuqorribu ilaa hubbika.",
+        "arti"          : "Ya Allah, aku memohon agar dapat mencintai-Mu, mencintai orang-orang yang mencintai-Mu, dan mencintai amal yang dapat mendekatkan diriku kepada cinta-Mu.",
+        "riwayat"       : "HR. Tirmidzi no. 3235 dan Ahmad 5: 243, dan dishahihkan al-Albani.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Mencintai Dan Dicintai Allah 2",
+        "lafal"         : "اَللَّهُمَّ إِنِّى أَسْأَلُكَ حُبَّكَ، وَحُبَّ مَنْ يُحِبُّكَ، وَالْعَمَلَ الَّذِى يُبَلِّغُنِى حُبَّكَ، اَللَّهُمَّ اجْعَلْ حُبَّكَ أَحَبَّ إِلَىَّ مِنْ نَفْسِى، وَأَهْلِى، وَمِنَ الْمَاءِ الْبَارِدِ",
+        "transliterasi" : "Allaahumma innii as-aluka hubbaka, wa hubba man yuhibbuka, wal 'amalal-ladzii yuballi-ghunii hubbaka. Allaahummaj'al hubbaka ahabba ilayya min nafsii, wa ahlii, wa minal maa'il baarid.",
+        "arti"          : "Ya Allah, aku memohon kepada-Mu cinta-Mu, cinta orang-orang yang mencintai-Mu, dan amalan yang mengantarkanku menggapai cinta-Mu. Ya Allah, jadikanlah cintaku kepada-Mu lebih aku cintai daripada cintaku kepada diriku sendiri, keluargaku, dan air dingin.",
+        "riwayat"       : "HR. At-Tirmidzi dari jalan Abu Darda’ radhiyallahu anhu, dan beliau (At-Tirmidzi) berkata derajat hadits ini hasan (baik).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Diterima Amal Ibadah Dan Taubat (Doa Nabi Ibrahim)",
+        "lafal"         : "رَبَّنَا تَقَبَّلْ مِنَّا إِنَّكَ أَنْتَ السَّمِيعُ الْعَلِيمُ، وَتُبْ عَلَيْنَا إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
+        "transliterasi" : "Robbanaa taqobbal minnaa, innaka antas-sami'ul 'aliim. Wa tub 'alainaa, innaka antat-tawwaabur-rohiim.",
+        "arti"          : "Ya Tuhan kami, terimalah daripada kami (amalan kami), sesungguhnya Engkaulah Yang Maha Mendengar lagi Maha Mengetahui. Dan terimalah taubat kami. Sesungguhnya Engkaulah Yang Maha Penerima taubat lagi Maha Penyayang.",
+        "riwayat"       : "(Al Baqarah [2]: 127 dan 128).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Tergolong Orang Beriman 1 (Doa Nabi Ibrahim)",
+        "lafal"         : "رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ، وَاجْعَلْ لِي لِسَانَ صِدْقٍ فِي الْآخِرِينَ، وَاجْعَلْنِي مِنْ وَرَثَةِ جَنَّةِ النَّعِيمِ",
+        "transliterasi" : "Robbi hab lii hukman, wa alhiqnii bish-shoolihiin. Waj'al lii lisaana shidqin fil aakhiriin. Waj'alnii min waro-tsati jannatin-na'iim.",
+        "arti"          : "Ya Tuhanku, berikanlah kepadaku hikmah, dan masukkanlah aku ke dalam golongan orang-orang yang saleh. Dan jadikanlah aku buah tutur yang baik bagi orang-orang (yang datang) kemudian. Dan jadikanlah aku termasuk orang-orang yang mempusakai surga yang penuh kenikmatan.",
+        "riwayat"       : "(Asy Syu’ara [26]: 83-85).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Tergolong Orang Beriman 2",
+        "lafal"         : "رَبَّنَا آمَنَّا فَاكْتُبْنَا مَعَ الشَّاهِدِينَ",
+        "transliterasi" : "Robbanaa aamannaa fak-tubnaa ma'asy-syaahidiin.",
+        "arti"          : "Ya Tuhan kami, kami telah beriman, maka catatlah kami bersama orang-orang yang menjadi saksi (atas kebenaran Al Quran dan kenabian Muhammad).",
+        "riwayat"       : "(Al Maidah [5]: 83).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Bertawakal Hanya Kepada Allah 1 (Doa Nabi Ibrahim)",
+        "lafal"         : "رَبَّنَا عَلَيْكَ تَوَكَّلْنَا وَإِلَيْكَ أَنَبْنَا وَإِلَيْكَ الْمَصِيرُ",
+        "transliterasi" : "Robbanaa 'alaika tawakkalnaa, wa ilaika anabnaa, wa ilaikal mashiir.",
+        "arti"          : "Ya Tuhan kami, hanya kepada Engkaulah kami bertawakal, dan hanya kepada Engkaulah kami bertaubat, dan hanya kepada Engkaulah kami kembali.",
+        "riwayat"       : "(Al Mumtahanah [60]: 4).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Bertawakal Hanya Kepada Allah 2",
+        "lafal"         : "حَسْبِيَ اللَّهُ لَا إِلَـٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
+        "transliterasi" : "Hasbiyallaah, laa ilaaha illaa huu, 'alaihi tawakkaltu, wa huwa robbul 'arsyil 'azhiim.",
+        "arti"          : "Cukuplah Allah bagiku, tidak ada sesembahan yang berhak disembah selain Dia. Hanya kepada-Nya aku bertawakal, dan Dia adalah Tuhan yang memiliki ‘Arsy yang agung.",
+        "riwayat"       : "(At Taubah [9]: 129).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Disempurnakan Cahayanya Dan Memohon Ampun",
+        "lafal"         : "رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+        "transliterasi" : "Robbanaa atmim lanaa nuuronaa, wagh-fir lanaa, innaka 'alaa kulli syai-in qodiir.",
+        "arti"          : "Ya Rabb kami, sempurnakanlah bagi kami cahaya kami dan ampunilah kami; Sesungguhnya Engkau Maha Kuasa atas segala sesuatu.",
+        "riwayat"       : "(At Tahrim [66]: 8).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Rahmat Dan Petunjuk",
+        "lafal"         : "رَبَّنَا آتِنَا مِنْ لَدُنْكَ رَحْمَةً وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًا",
+        "transliterasi" : "Robbanaa aatinaa min ladunka rohmatan, wa hayyi' lanaa min amrinaa rosyadaa.",
+        "arti"          : "Wahai Tuhan kami, berikanlah rahmat kepada kami dari sisi-Mu, dan sempurnakanlah bagi kami petunjuk yang lurus dalam urusan kami.",
+        "riwayat"       : "(Al Kahfi [18]: 10).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Agar Diwafatkan Dalam Keadaan Islam Dan Tergolong Orang Saleh (Doa Nabi Yusuf)",
+        "lafal"         : "أَنتَ وَلِيِّي فِي الدُّنْيَا وَالْآخِرَةِ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ",
+        "transliterasi" : "Anta waliyyii fid-dunyaa wal aakhiroh, tawaffanii musliman, wa alhiqnii bish-shoolihiin.",
+        "arti"          : "Engkaulah Pelindungku di dunia dan di akhirat, wafatkanlah aku dalam keadaan Islam dan gabungkanlah aku dengan orang-orang yang saleh.",
+        "riwayat"       : "(Yusuf [12]: 101)",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Petunjuk Dan Kebenaran 1",
+        "lafal"         : "اَللَّهُمَّ إِنِّيْ أَسْأَلُكَ الْهُدَى وَالسَّدَادَ",
+        "transliterasi" : "Allaahumma innii as-alukal hudaa was-sadaad.",
+        "arti"          : "Ya Allah, aku memohon kepada-Mu petunjuk dan kebenaran.",
+        "riwayat"       : "HR. Muslim no. 2725.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Petunjuk Dan Kebenaran 2",
+        "lafal"         : "اَللَّهُمَّ اهْدِنِيْ وَسَدِّدْنِي",
+        "transliterasi" : "Allaahummahdinii wa saddidnii.",
+        "arti"          : "Ya Allah, berilah aku hidayah dan keteguhan dalam kebenaran.",
+        "riwayat"       : "HR. Muslim dalam Shahih Muslim.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Kesabaran Dan Agar Diwafatkan Dalam Keadaan Muslim",
+        "lafal"         : "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَتَوَفَّنَا مُسْلِمِينَ",
+        "transliterasi" : "Robbanaa afrigh 'alainaa shobron, wa tawaffanaa muslimiin.",
+        "arti"          : "Ya Tuhan kami, limpahkanlah kesabaran kepada kami, dan wafatkanlah kami dalam keadaan berserah diri (kepada-Mu).",
+        "riwayat"       : "(Al A'raf [7]: 126).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Dihidupkan Jika Itu Baik, Dan Dimatikan Jika Itu Baik",
+        "lafal"         : "اَللَّهُمَّ أَحْيِنِي مَا كَانَتِ الحَيَاةُ خَيْرًا لِي، وَتَوَفَّنِي إِذَا كَانَتِ الوَفَاةُ خَيْرًا لِي",
+        "transliterasi" : "Allaahumma ahyinii maa kaanatil hayaatu khoiron lii, wa tawaffanii idzaa kaanatil wafaatu khoiron lii.",
+        "arti"          : "Ya Allah, hidupkanlah aku jika kehidupan itu baik untukku, dan matikanlah aku jika kematian itu baik untukku.",
+        "riwayat"       : "HR. Bukhari no. 6351, 5671 dan Muslim no. 2680.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Keteguhan, Petunjuk Sekaligus Sebagai Pemberi Petunjuk",
+        "lafal"         : "اَللَّهُمَّ ثَبِّتْنِي، وَاجْعَلْنِي هَادِيًا مَهْدِيًّا",
+        "transliterasi" : "Allaahumma tsabbitnii, waj'alnii haadiyan mahdiyyan.",
+        "arti"          : "Ya Allah, teguhkanlah aku. Dan jadikanlah aku sebagai pemberi petunjuk sekaligus mendapat petunjuk.",
+        "riwayat"       : "HR. Bukhari, Muslim.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Keimanan, Keyakinan Dan Pemahaman",
+        "lafal"         : "اَللَّهُمَّ زِدْنَا إِيْمَانًا، وَيَقِيْنًا، وَفِقْهًا",
+        "transliterasi" : "Allaahumma zidnaa iimaanan, wa yaqiinan, wa fiqhan.",
+        "arti"          : "Ya Allah, tambahkan kepada kami keimanan, keyakinan dan pemahaman (yang benar).",
+        "riwayat"       : "HR. Abdullah bin Imam Ahmad dalam As-Sunnah (I/368, No. 797) dan Al-Laalikai dalam Syirah Ushul I’tiqod Ahlis Sunnah waljama’ah (No. 1704). Al-Hafizh Ibnu Hajar menyatakan sanadnya shahih dalam Fathul Barri (I/48).",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Keteguhan Di Atas Islam",
+        "lafal"         : "يَا وَلِيَّ الْإِسْلَامِ وَأَهْلِهِ، مَسِّكْنِي الْإِسْلَامَ، حَتَّى أَلْقَاكَ عَلَيْهِ",
+        "transliterasi" : "Yaa waliyyal islaami wa ahlih, massiknil islaam, hattaa alqooka 'alaih.",
+        "arti"          : "Wahai Dzat yang melindungi Islam dan pemeluknya, kokohkanlah kami di atas Islam, sampai kami menemui-Mu dengan membawanya.",
+        "riwayat"       : "HR. ath-Thabrani.",
+        "keterangan"    : None,
+        "kata_kunci"    : []
+    },
+    {
+        "id_doa"        : "",
+        "nama"          : "Doa Memohon Iman Yang Tidak Lepas, Nikmat Yang Tidak Habis, Dan Menyertai Nabi Muhammad Di Surga",
+        "lafal"         : "اَللَّهُمَّ إِنِّي أَسْأَلُكَ إِيْمَانًا لَا يَرْتَدُّ، وَنَعِيْمًا لَا يَنْفَدُ، وَمُرَافَقَةَ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ فِي أَعْلَى جَنَّةِ الْخُلْدِ",
+        "transliterasi" : "Allaahumma innii as-aluka iimaanan laa yartadd, wa na'iiman laa yanfad, wa muroofaqota muhammadin shollallaahu 'alaihi wa sallama fii a'laa jannatil khuld.",
+        "arti"          : "Ya Allah, sesungguhnya aku memohon kepada-Mu iman yang tidak akan lepas, nikmat yang tidak akan habis, dan menyertai Muhammad shallallahu ‘alaihi wa sallam di surga yang paling tinggi selamanya.",
+        "riwayat"       : "HR. Ahmad 1:400, Ibnu Hibban 5:303. Syaikh Syu’aib Al-Arnauth mengatakan bahwa hadits ini shahih lighairihi (sahih dilihat dari jalur lain).",
         "keterangan"    : None,
         "kata_kunci"    : []
     },
