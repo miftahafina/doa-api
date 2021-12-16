@@ -1,5 +1,5 @@
 # doa-api
-Kumpulan doa-doa sesuai al-qur'an dan as-sunnah
+Kumpulan doa-doa sesuai al-qur'an dan as-sunnah, sebagian besar diambil dari aplikasi Apa Doanya.
 
 ## Requirements
 - Python
