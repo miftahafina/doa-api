@@ -1,5 +1,5 @@
 # doa-api
-Kumpulan doa-doa sesuai al-qur'an dan as-sunnah, sebagian besar diambil dari aplikasi Apa Doanya.
+Kumpulan doa-doa sesuai al-qur'an dan as-sunnah
 
 ## Requirements
 - Python
@@ -26,3 +26,6 @@ Kumpulan doa-doa sesuai al-qur'an dan as-sunnah, sebagian besar diambil dari apl
 
 ## Link
 https://tanyadoa-api.herokuapp.com/
+
+## Sumber
+Sebagian besar data yang ada diambil dari aplikasi Apa Doanya.
