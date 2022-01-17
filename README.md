@@ -26,3 +26,6 @@ Kumpulan doa-doa sesuai al-qur'an dan as-sunnah
 
 ## Link
 https://tanyadoa-api.herokuapp.com/
+
+## Sumber
+Sebagian besar data yang ada diambil dari aplikasi Apa Doanya.
