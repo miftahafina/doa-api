@@ -1,10 +1,12 @@
 from flask import Flask, jsonify
+from flask_cors import CORS
 from markupsafe import escape
 from generated_doa_list import generated_doa_list
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 import operator
 
 app = Flask(__name__)
+CORS(app)
 app.config['JSON_SORT_KEYS'] = False
 
 @app.route("/")
